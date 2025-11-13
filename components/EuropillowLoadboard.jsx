@@ -1,10 +1,8 @@
-// components/EuropillowLoadboard.jsx
 "use client";
 
 import { useMemo, useState } from "react";
 import { AlertTriangle, Truck, PackageSearch, Search } from "lucide-react";
 
-// Mapowanie statusów na kolory itp.
 const STATUS_STYLES = {
   Created: {
     pill: "bg-slate-800 text-slate-100 border border-slate-600",
@@ -61,14 +59,11 @@ function formatDateTime(iso) {
 
 function fmtKg(n) {
   if (n == null) return "";
-  return (
-    new Intl.NumberFormat(undefined, {
-      maximumFractionDigits: 1,
-    }).format(n) + " kg"
-  );
+  return new Intl.NumberFormat(undefined, {
+    maximumFractionDigits: 1,
+  }).format(n) + " kg";
 }
 
-// Ujednolicamy strukturę z Twojego JSON-a
 function normalizeShipment(raw) {
   const lastCheckpoint =
     raw?.checkpoints && raw.checkpoints.length
@@ -95,7 +90,6 @@ function normalizeShipment(raw) {
   };
 }
 
-// Podsumowania (ten “szczegół ze screena” – totals na górze)
 function computeStats(shipments) {
   const total = shipments.length;
   let delivered = 0;
@@ -120,7 +114,6 @@ function computeStats(shipments) {
 }
 
 export default function EuropillowLoadboard({ initialShipments = [] }) {
-  // 1) filtrujemy wiersz sum "TOTALES" i puste ID
   const normalized = useMemo(
     () =>
       initialShipments
@@ -131,7 +124,6 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
 
   const [search, setSearch] = useState("");
 
-  // 2) filtr po ID / miastach / carrierze
   const filtered = useMemo(() => {
     if (!search.trim()) return normalized;
     const q = search.trim().toLowerCase();
@@ -147,12 +139,10 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
     });
   }, [normalized, search]);
 
-  // 3) podsumowania
   const stats = useMemo(() => computeStats(normalized), [normalized]);
 
   return (
     <div className="space-y-4">
-      {/* --- PODSUMOWANIA --- */}
       <section className="grid gap-3 md:grid-cols-5">
         <SummaryCard label="Total shipments" value={stats.total} />
         <SummaryCard label="Delivered" value={stats.delivered} type="success" />
@@ -161,7 +151,6 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
         <SummaryCard label="Total weight" value={fmtKg(stats.totalWeight)} />
       </section>
 
-      {/* --- Search & info --- */}
       <section className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
         <div className="relative w-full md:max-w-xs">
           <Search className="pointer-events-none absolute left-2.5 top-2.5 h-4 w-4 text-slate-500" />
@@ -175,12 +164,12 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
         </div>
 
         <p className="text-xs text-slate-500">
-          Showing <span className="font-semibold text-slate-200">{filtered.length}</span> of{" "}
-          <span className="font-semibold text-slate-200">{normalized.length}</span> shipments
+          Showing <span className="font-semibold text-slate-200">{filtered.length}</span>{" "}
+          of <span className="font-semibold text-slate-200">{normalized.length}</span>{" "}
+          shipments
         </p>
       </section>
 
-      {/* --- TABELA --- */}
       <section className="overflow-x-auto rounded-xl border border-slate-800 bg-slate-900/60 shadow-lg shadow-black/40">
         <table className="min-w-full border-collapse text-xs md:text-sm">
           <thead className="bg-slate-900/80">
@@ -203,10 +192,7 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
           <tbody>
             {filtered.length === 0 ? (
               <tr>
-                <td
-                  colSpan={13}
-                  className="px-4 py-6 text-center text-sm text-slate-500"
-                >
+                <td colSpan={13} className="px-4 py-6 text-center text-sm text-slate-500">
                   No shipments match your filters.
                 </td>
               </tr>
@@ -269,7 +255,6 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
   );
 }
 
-// Karty z podsumowaniami
 function SummaryCard({ label, value, type }) {
   const base =
     "rounded-xl border px-3 py-2 text-xs md:text-sm flex flex-col gap-1 shadow-sm";
