@@ -1,0 +1,7010 @@
+[
+  {
+    "id": "00052132",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 01",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 9,
+    "weight_kg": 2899.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 01",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052133",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 01",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 799.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 01",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052134",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 01",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 9,
+    "weight_kg": 4864.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 01",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052135",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "LINARES DE RIOFRIO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 103.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "LINARES DE RIOFRIO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052136",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "PEÑACABALLERA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 268.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "PEÑACABALLERA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052137",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 02",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 28.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 02",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052138",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 02",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 1278.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 02",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052187",
+    "origin_city": "00001818",
+    "origin_country": "Spain",
+    "dest_city": "GUIJUELO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 580.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "GUIJUELO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052365",
+    "origin_city": "00000414",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 01",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 138.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 01",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052366",
+    "origin_city": "00050026",
+    "origin_country": "Spain",
+    "dest_city": "BEJAR",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 30.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BEJAR",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052367",
+    "origin_city": "00000170",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 02",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 623.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 02",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052368",
+    "origin_city": "01577567",
+    "origin_country": "Spain",
+    "dest_city": "CIUDAD RODRIGO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 1440.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CIUDAD RODRIGO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052369",
+    "origin_city": "01577590",
+    "origin_country": "Spain",
+    "dest_city": "GUIJUELO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 10,
+    "weight_kg": 15.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "GUIJUELO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052392",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SANTA PERPETUA DE MOGODA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 45.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SANTA PERPETUA DE MOGODA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052408",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CASTELLANOS DE MORISCOS",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 5.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CASTELLANOS DE MORISCOS",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052409",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CASTROGONZALO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 300.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CASTROGONZALO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052410",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "GUIJUELO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 58,
+    "weight_kg": 1.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "GUIJUELO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052411",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SANTA PERPETUA DE MOGODA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 1200.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SANTA PERPETUA DE MOGODA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052412",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BAGUIM",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 7,
+    "weight_kg": 7680.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BAGUIM",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052413",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "OLOT",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 6,
+    "weight_kg": 5482.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "OLOT",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052414",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "PALMAR, VIEJO DE EL",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 176.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "PALMAR, VIEJO DE EL",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052415",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "REVILLA DE CAMARGO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 12,
+    "weight_kg": 62.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "REVILLA DE CAMARGO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052416",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MOLINA DE SEGURA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 39.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MOLINA DE SEGURA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052417",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MADRID-DTR. 42",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 225.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MADRID-DTR. 42",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052418",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "LISBOA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 35.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "LISBOA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052419",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "GETAFE-DTR. 06",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 543.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "GETAFE-DTR. 06",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052420",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "POBLA DE VALLBONA, LA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 55.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "POBLA DE VALLBONA, LA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052421",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BARCELONA-DTR. 36",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 14.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BARCELONA-DTR. 36",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052422",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ZAMORA-DTR. 07",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 220.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ZAMORA-DTR. 07",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052423",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ALLO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 5,
+    "weight_kg": 125.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ALLO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052424",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VITORIA-GASTEIZ-DTR. 01",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 102.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VITORIA-GASTEIZ-DTR. 01",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052425",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MIRANDA DE EBRO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 270.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MIRANDA DE EBRO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052426",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "LUEY",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 40.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "LUEY",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052427",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BILBAO-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 312.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BILBAO-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052428",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ADUNA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 10.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ADUNA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052429",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CABANILLAS DEL CAMPO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 745.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CABANILLAS DEL CAMPO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052430",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ZAMORA-DTR. 24",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 300.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ZAMORA-DTR. 24",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052431",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CASTRO URDIALES",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 625.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CASTRO URDIALES",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052432",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "USURBIL",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 270.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "USURBIL",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052433",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VALLADOLID",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 10.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VALLADOLID",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052434",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VILLAMURIEL DE CERRATO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 82.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VILLAMURIEL DE CERRATO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052435",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SINTRA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 32.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SINTRA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052436",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "OREJO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 125.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "OREJO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052437",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "PORTO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 16.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "PORTO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052438",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "LISBOA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 24.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "LISBOA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052439",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SANTIAGO DE COMPOSTELA-DTR. 03",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 13.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SANTIAGO DE COMPOSTELA-DTR. 03",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052440",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CARBAJOSA DE LA SAGRADA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 170.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CARBAJOSA DE LA SAGRADA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052441",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SANTANDER",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 15.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SANTANDER",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052442",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VALENCIA-DTR. 02",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 104.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VALENCIA-DTR. 02",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052443",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BILBAO-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 130.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BILBAO-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052444",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MALAGA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 1607.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MALAGA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052445",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "JAEN-DTR. 09",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 800.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "JAEN-DTR. 09",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052446",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VILLARES DE LA REINA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 1929.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VILLARES DE LA REINA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052447",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VILLARES DE LA REINA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 500.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VILLARES DE LA REINA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052448",
+    "origin_city": "21544117",
+    "origin_country": "Spain",
+    "dest_city": "ZAMORA-DTR. 24",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 127.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ZAMORA-DTR. 24",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052449",
+    "origin_city": "21537246",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 600.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052450",
+    "origin_city": "21539453",
+    "origin_country": "Spain",
+    "dest_city": "ZAMORA-DTR. 24",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 70.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ZAMORA-DTR. 24",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052451",
+    "origin_city": "21548804",
+    "origin_country": "Spain",
+    "dest_city": "GUIJUELO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 2098.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "GUIJUELO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052452",
+    "origin_city": "21548902",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 06",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 813.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 06",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052453",
+    "origin_city": "21544198",
+    "origin_country": "Spain",
+    "dest_city": "ALBA DE TORMES",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 100.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ALBA DE TORMES",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052454",
+    "origin_city": "21544077",
+    "origin_country": "Spain",
+    "dest_city": "ALBA DE TORMES",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 195.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ALBA DE TORMES",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052455",
+    "origin_city": "21542384",
+    "origin_country": "Spain",
+    "dest_city": "PELABRAVO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 1260.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "PELABRAVO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052456",
+    "origin_city": "21542181",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 600.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052457",
+    "origin_city": "21545838",
+    "origin_country": "Spain",
+    "dest_city": "BABILAFUENTE",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 80.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BABILAFUENTE",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052458",
+    "origin_city": "21531479",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 07",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 60.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 07",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052459",
+    "origin_city": "21540596",
+    "origin_country": "Spain",
+    "dest_city": "PUEBLA DE SANABRIA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 37.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "PUEBLA DE SANABRIA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052460",
+    "origin_city": "21543189",
+    "origin_country": "Spain",
+    "dest_city": "MARTIN DE YELTES",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 80.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MARTIN DE YELTES",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052461",
+    "origin_city": "21540702",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 109.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052462",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ALAQUAS",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 800.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ALAQUAS",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052505",
+    "origin_city": "42445584",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 16.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052507",
+    "origin_city": "42456543",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 22,
+    "weight_kg": 222.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052509",
+    "origin_city": "42452981",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 67,
+    "weight_kg": 908.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052510",
+    "origin_city": "42455900",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 118.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052512",
+    "origin_city": "42455868",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 20.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052513",
+    "origin_city": "42455887",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 23.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052514",
+    "origin_city": "42455902",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 71.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052516",
+    "origin_city": "42455874",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 30.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052517",
+    "origin_city": "42456545",
+    "origin_country": "Spain",
+    "dest_city": "CIUDAD RODRIGO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 11,
+    "weight_kg": 86.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CIUDAD RODRIGO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052518",
+    "origin_city": "42452942",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 20.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052519",
+    "origin_city": "42455863",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 102.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052520",
+    "origin_city": "42455880",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 59.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052521",
+    "origin_city": "42455849",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 20.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052522",
+    "origin_city": "42455860",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 51.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052523",
+    "origin_city": "42456559",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 11,
+    "weight_kg": 111.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052524",
+    "origin_city": "42455867",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 38.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052525",
+    "origin_city": "42455888",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 24.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052526",
+    "origin_city": "42455852",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 118.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052530",
+    "origin_city": "42455856",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 23.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052531",
+    "origin_city": "42452952",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 6,
+    "weight_kg": 91.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052532",
+    "origin_city": "42455862",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 38.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052533",
+    "origin_city": "42452959",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 17.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052534",
+    "origin_city": "42455891",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 24.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052535",
+    "origin_city": "42456558",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 9,
+    "weight_kg": 100.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052536",
+    "origin_city": "42452957",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 9,
+    "weight_kg": 108.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052537",
+    "origin_city": "42455846",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 31.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052538",
+    "origin_city": "42455873",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 40.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052539",
+    "origin_city": "42453010",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 48.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052540",
+    "origin_city": "42452998",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 20.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052541",
+    "origin_city": "42452976",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 6,
+    "weight_kg": 66.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052542",
+    "origin_city": "42455889",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 28.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052543",
+    "origin_city": "42455897",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 29.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052544",
+    "origin_city": "42455914",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 40.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052545",
+    "origin_city": "42456551",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 14,
+    "weight_kg": 1043.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052546",
+    "origin_city": "42452943",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 13,
+    "weight_kg": 144.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052547",
+    "origin_city": "42455899",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 9.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052549",
+    "origin_city": "42456533",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 16,
+    "weight_kg": 255.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052550",
+    "origin_city": "42453003",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 38.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052551",
+    "origin_city": "42456534",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 6,
+    "weight_kg": 31.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052552",
+    "origin_city": "42455876",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 39.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052553",
+    "origin_city": "42455918",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 65.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052554",
+    "origin_city": "42452971",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 7,
+    "weight_kg": 88.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052555",
+    "origin_city": "42455884",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 23.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052556",
+    "origin_city": "42455885",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 59.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052557",
+    "origin_city": "42455913",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 83.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052558",
+    "origin_city": "42455870",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 62.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052559",
+    "origin_city": "42456554",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 19,
+    "weight_kg": 167.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052560",
+    "origin_city": "42456535",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 13,
+    "weight_kg": 219.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052562",
+    "origin_city": "42453006",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 44,
+    "weight_kg": 191.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052563",
+    "origin_city": "42452965",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 52.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052565",
+    "origin_city": "42455854",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 42.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052566",
+    "origin_city": "42455875",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 26.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052567",
+    "origin_city": "42455903",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 104.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052568",
+    "origin_city": "42455912",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 65.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052569",
+    "origin_city": "42456553",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 19,
+    "weight_kg": 159.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052570",
+    "origin_city": "42440375",
+    "origin_country": "Spain",
+    "dest_city": "CARBAJOSA DE LA SAGRADA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 332.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CARBAJOSA DE LA SAGRADA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052571",
+    "origin_city": "42440250",
+    "origin_country": "Spain",
+    "dest_city": "GUIJUELO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 6,
+    "weight_kg": 247.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "GUIJUELO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052572",
+    "origin_city": "42455878",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 88.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052573",
+    "origin_city": "42456541",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 30.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052574",
+    "origin_city": "42455879",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 44.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052575",
+    "origin_city": "42455895",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 24.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052576",
+    "origin_city": "42456552",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 241.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052582",
+    "origin_city": "42443544",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 420.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052589",
+    "origin_city": "42446069",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 02",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 588.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 02",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052594",
+    "origin_city": "42444629",
+    "origin_country": "Spain",
+    "dest_city": "VILLARES DE LA REINA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 523.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VILLARES DE LA REINA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052596",
+    "origin_city": "42451535",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 02",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 5,
+    "weight_kg": 50.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 02",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052597",
+    "origin_city": "42450478",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 04",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 40.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 04",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052598",
+    "origin_city": "42452396",
+    "origin_country": "Spain",
+    "dest_city": "CARRASCAL DE BARREGAS",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 268.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CARRASCAL DE BARREGAS",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052614",
+    "origin_city": "42446060",
+    "origin_country": "Spain",
+    "dest_city": "VILLARES DE LA REINA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 900.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VILLARES DE LA REINA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052615",
+    "origin_city": "42452680",
+    "origin_country": "Spain",
+    "dest_city": "VILLARES DE LA REINA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 150.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VILLARES DE LA REINA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052616",
+    "origin_city": "42449302",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 03",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 1036.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 03",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052624",
+    "origin_city": "42444396",
+    "origin_country": "Spain",
+    "dest_city": "SANTA MARTA DE TORMES",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 408.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SANTA MARTA DE TORMES",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052626",
+    "origin_city": "42449741",
+    "origin_country": "Spain",
+    "dest_city": "SALAMANCA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 286.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SALAMANCA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052627",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CULLERA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 40.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CULLERA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052628",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ANADIA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 625.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ANADIA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052629",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SINTRA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 807.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SINTRA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052630",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ALCOSSEBRE",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 100.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ALCOSSEBRE",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052631",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "QUINTA SERRA MIRA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 46.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "QUINTA SERRA MIRA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052632",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "PINTO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 647.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "PINTO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052633",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "COLMENAR VIEJO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 950.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "COLMENAR VIEJO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052634",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ALMADA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 1071.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ALMADA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052635",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CARCAIXENT",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 250.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CARCAIXENT",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052636",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MADRID",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 960.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MADRID",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052637",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CARRER DE CAL ROSSELL, EL",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 60.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CARRER DE CAL ROSSELL, EL",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052638",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SEGADE",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 1066.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SEGADE",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052639",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "RUBI",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 200.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "RUBI",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052640",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ALCALA DE HENARES-DTR. 07",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 31.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ALCALA DE HENARES-DTR. 07",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052641",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ZARZA DE GRANADILLA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 120.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ZARZA DE GRANADILLA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052642",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VALDEMORO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 39.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VALDEMORO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052643",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "PALMA DE MALLORCA-DTR. 09",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 197.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "PALMA DE MALLORCA-DTR. 09",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052644",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BARCELONA-DTR. 20",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 9,
+    "weight_kg": 120.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BARCELONA-DTR. 20",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052645",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "JUMILLA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 7,
+    "weight_kg": 90.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "JUMILLA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052646",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MADRID-DTR. 20",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 106.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MADRID-DTR. 20",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052647",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ZARAGOZA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 140.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ZARAGOZA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052648",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MONTEALEGRE DEL CASTILLO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 20.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MONTEALEGRE DEL CASTILLO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052649",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VILLENA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 12,
+    "weight_kg": 220.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VILLENA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052650",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MURCIA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 50.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MURCIA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052651",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VILLANUEVA DE LA CAÑADA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 28.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VILLANUEVA DE LA CAÑADA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052652",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MADRID-DTR. 30",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 40.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MADRID-DTR. 30",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052653",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VILLANUEVA DE CORDOBA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 44.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VILLANUEVA DE CORDOBA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052654",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BAENA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 8,
+    "weight_kg": 100.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BAENA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052655",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BARCELONA-DTR. 29",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 25.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BARCELONA-DTR. 29",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052656",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "OTURA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 6,
+    "weight_kg": 70.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "OTURA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052657",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "FERROL-DTR. 04",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 26.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "FERROL-DTR. 04",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052658",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MADRID-DTR. 38",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 8,
+    "weight_kg": 140.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MADRID-DTR. 38",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052659",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "HUESCA-DTR. 04",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 25.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "HUESCA-DTR. 04",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052660",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SEGOVIA-DTR. 03",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 200.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SEGOVIA-DTR. 03",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052661",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MADRID-DTR. 38",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 5,
+    "weight_kg": 80.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MADRID-DTR. 38",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052662",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SARRIA , CASCO URBANO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 108.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SARRIA , CASCO URBANO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052663",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VALENCIA-DTR. 23",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 20.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VALENCIA-DTR. 23",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052664",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ALCORCON-DTR. 01",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 137.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ALCORCON-DTR. 01",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052665",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MADRID",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 20.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MADRID",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052666",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VALLADOLID-DTR. 197",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 200.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VALLADOLID-DTR. 197",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052667",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ESCORIAL, EL , LAS ROZAS",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 20.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ESCORIAL, EL , LAS ROZAS",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052668",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CULLAR",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 6,
+    "weight_kg": 80.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CULLAR",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052669",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "PLASENCIA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 8,
+    "weight_kg": 86.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "PLASENCIA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052670",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "TARRAGONA-DTR. 01",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 116.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "TARRAGONA-DTR. 01",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052671",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "DAIMIEL",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 68.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "DAIMIEL",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052672",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MONTIJO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 30.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MONTIJO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052673",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CARAVACA DE LA CRUZ",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 7,
+    "weight_kg": 90.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CARAVACA DE LA CRUZ",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052674",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "QUINTUELES",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 50.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "QUINTUELES",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052675",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MADRID-DTR. 49",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 30.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MADRID-DTR. 49",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052676",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MADRID-DTR. 42",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 90.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MADRID-DTR. 42",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052677",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CLUB DE CAMPO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 90.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CLUB DE CAMPO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052678",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VALLADOLID-DTR. 12",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 144.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VALLADOLID-DTR. 12",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052679",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ALFAFAR",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 10.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ALFAFAR",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052680",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "DENIA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 50.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "DENIA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052681",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CONSTANTI",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 60.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CONSTANTI",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052682",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ALGECIRAS-DTR. 01",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 75.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ALGECIRAS-DTR. 01",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052683",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ODIVELAS",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 76.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ODIVELAS",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052684",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BALSICAS",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 240.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BALSICAS",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052685",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MADRID-DTR. 12",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 10.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MADRID-DTR. 12",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052686",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SAN FERNANDO DE HENARES",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 10.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SAN FERNANDO DE HENARES",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052687",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "FARO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 6,
+    "weight_kg": 96.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "FARO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052706",
+    "origin_city": "42409888",
+    "origin_country": "Spain",
+    "dest_city": "CAMPILLO DE SALVATIERRA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 789.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CAMPILLO DE SALVATIERRA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052714",
+    "origin_city": "00272323",
+    "origin_country": "Spain",
+    "dest_city": "ZAMORA-DTR. 16",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 65.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ZAMORA-DTR. 16",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052715",
+    "origin_city": "00272393",
+    "origin_country": "Spain",
+    "dest_city": "ZAMORA-DTR. 24",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 3299.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ZAMORA-DTR. 24",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052716",
+    "origin_city": "00272529",
+    "origin_country": "Spain",
+    "dest_city": "POBLADURA DEL VALLE",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 420.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "POBLADURA DEL VALLE",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052717",
+    "origin_city": "00272537",
+    "origin_country": "Spain",
+    "dest_city": "TORO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 600.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "TORO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "00052718",
+    "origin_city": "00272753",
+    "origin_country": "Spain",
+    "dest_city": "MORALEJA DEL VINO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 648.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MORALEJA DEL VINO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010438",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VALONGO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 2138.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VALONGO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010439",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "AZAMBUJA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 5,
+    "weight_kg": 3705.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "AZAMBUJA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010440",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MUNGIA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 434.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MUNGIA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010442",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VILLANUEVA DE GUMIEL",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 443.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VILLANUEVA DE GUMIEL",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010443",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "PONFERRADA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 114.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "PONFERRADA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010444",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BARCELONA-DTR. 40",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 33.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BARCELONA-DTR. 40",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010445",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SIERRA DE YEGUAS",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 230.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SIERRA DE YEGUAS",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010446",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BARCELONA-DTR. 28",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 6,
+    "weight_kg": 1800.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BARCELONA-DTR. 28",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010447",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MADRID-DTR. 10",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 1.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MADRID-DTR. 10",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010448",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "FIGUERES",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 317.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "FIGUERES",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010449",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MOSTOLES-DTR. 03",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 10,
+    "weight_kg": 155.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MOSTOLES-DTR. 03",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010450",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MADRID",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 1.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MADRID",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010451",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MADRID-DTR. 26",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 510.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MADRID-DTR. 26",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010452",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ZARAGOZA-DTR. 14",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 30.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ZARAGOZA-DTR. 14",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010453",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SANT ANDREU DE LA BARCA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 460.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SANT ANDREU DE LA BARCA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010454",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "TARRAGONA-DTR. 05",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 5,
+    "weight_kg": 78.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "TARRAGONA-DTR. 05",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010455",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "QUINTANA DE LA SERENA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 962.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "QUINTANA DE LA SERENA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010456",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "HINOJOSA DEL DUQUE",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 530.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "HINOJOSA DEL DUQUE",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010458",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "HUMANES DE MADRID",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 10,
+    "weight_kg": 127.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "HUMANES DE MADRID",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010459",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SEVILLA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 7,
+    "weight_kg": 90.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SEVILLA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010460",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "LEGANES-DTR. 04",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 770.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "LEGANES-DTR. 04",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010461",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "PARACUELLOS DE JARAMA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 10,
+    "weight_kg": 134.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "PARACUELLOS DE JARAMA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010462",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ARETXABALETA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 15,
+    "weight_kg": 196.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ARETXABALETA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010463",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SEVILLA-DTR. 06",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 8,
+    "weight_kg": 101.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SEVILLA-DTR. 06",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010464",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BAÑEZA, LA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 1.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BAÑEZA, LA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010465",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VILLALMANZO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 276.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VILLALMANZO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010466",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "QUINTANILLA DE SOLLAMAS",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 1543.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "QUINTANILLA DE SOLLAMAS",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010467",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VALENCIA-DTR. 01",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 63.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VALENCIA-DTR. 01",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010468",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VAL DE SANTO DOMINGO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 1033.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VAL DE SANTO DOMINGO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010469",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "NAVAHERMOSA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 491.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "NAVAHERMOSA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010470",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BURGOS-DTR. 01",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 170.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BURGOS-DTR. 01",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010471",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SEVILLA-DTR. 13",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 508.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SEVILLA-DTR. 13",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010472",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ROZAS DE MADRID, LAS",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 20.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ROZAS DE MADRID, LAS",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010473",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "PALENCIA-DTR. 04",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 100.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "PALENCIA-DTR. 04",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010474",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MOSTOLES-DTR. 05",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 1540.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MOSTOLES-DTR. 05",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010475",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SAN JAVIER",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 190.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SAN JAVIER",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010476",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MADRID-DTR. 32",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 18.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MADRID-DTR. 32",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010477",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "EJIDO, EL",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 11,
+    "weight_kg": 150.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "EJIDO, EL",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010478",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ELDA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 18,
+    "weight_kg": 154.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ELDA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010479",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SAN JUAN DEL PUERTO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 400.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SAN JUAN DEL PUERTO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010480",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MURCIA-DTR. 08",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 213.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MURCIA-DTR. 08",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010481",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CORDOBA-DTR. 06",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 500.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CORDOBA-DTR. 06",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010482",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VILLAGONZALO PEDERNALES",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 384.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VILLAGONZALO PEDERNALES",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010483",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VALENCIA-DTR. 06",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 55.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VALENCIA-DTR. 06",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010484",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BILBAO-DTR. 14",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 756.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BILBAO-DTR. 14",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010485",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MIJAS",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 20.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MIJAS",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010486",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CAMPELLO, EL",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 10,
+    "weight_kg": 158.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CAMPELLO, EL",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010487",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BILBAO-DTR. 11",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 6,
+    "weight_kg": 70.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BILBAO-DTR. 11",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010488",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SEVILLA-DTR. 03",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 45.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SEVILLA-DTR. 03",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010489",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SEVILLA-DTR. 07",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 34.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SEVILLA-DTR. 07",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010490",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SEVILLA-DTR. 04",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 34.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SEVILLA-DTR. 04",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010491",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ALICANTE/ALACANT-DTR. 540",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 316.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ALICANTE/ALACANT-DTR. 540",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010492",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SEVILLA-DTR. 13",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 35.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SEVILLA-DTR. 13",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010493",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ALMUNIA DE DOÑA GODINA, LA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 56.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ALMUNIA DE DOÑA GODINA, LA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010494",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MONOVAR",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 1553.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MONOVAR",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010495",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SEVILLA-DTR. 13",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 35.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SEVILLA-DTR. 13",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010496",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SEVILLA-DTR. 01",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 3,
+    "weight_kg": 34.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SEVILLA-DTR. 01",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010497",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CANILES",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 265.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CANILES",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010498",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "TOMELLOSO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 296.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "TOMELLOSO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010499",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ARGOMANIZ",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 23.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ARGOMANIZ",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010500",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "VILALBA , CASCO URBANO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 13.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "VILALBA , CASCO URBANO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010501",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MAZAGON",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 43.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MAZAGON",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010502",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "POBLETE",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 5,
+    "weight_kg": 82.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "POBLETE",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010503",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SAN FERNANDO DE HENARES",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 1040.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SAN FERNANDO DE HENARES",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010505",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MANUEL",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 760.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MANUEL",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010506",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ALMAGRO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 1370.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ALMAGRO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010508",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "SANT BOI DE LLOBREGAT",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 5,
+    "weight_kg": 2450.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "SANT BOI DE LLOBREGAT",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010509",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "PUERTO DE SANTA MARIA, EL",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 1090.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "PUERTO DE SANTA MARIA, EL",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010510",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MONTEMAYOR DE PILILLA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 39.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MONTEMAYOR DE PILILLA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010512",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ALCORCON-DTR. 02",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 325.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ALCORCON-DTR. 02",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010513",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CASTALLA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 4,
+    "weight_kg": 2100.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CASTALLA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010514",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "UTIEL",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 130.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "UTIEL",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010516",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "MASSANASSA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 510.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "MASSANASSA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010536",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ARGANDA DEL REY",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 5,
+    "weight_kg": 3100.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ARGANDA DEL REY",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010537",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "JUMILLA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 520.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "JUMILLA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010538",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "ELCHE/ELX",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 300.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "ELCHE/ELX",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010539",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "TRANCOSO",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 6,
+    "weight_kg": 2020.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "TRANCOSO",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010540",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "BARCELONA",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 244.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "BARCELONA",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "05010541",
+    "origin_city": "Salamanca",
+    "origin_country": "Spain",
+    "dest_city": "CARBONERO EL MAYOR",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 2,
+    "weight_kg": 1014.0,
+    "status": "Delivered",
+    "eta": "2025-11-11T14:00:00",
+    "last_seen": "2025-11-11T14:00:00",
+    "current_loc": "CARBONERO EL MAYOR",
+    "checkpoints": [
+      {
+        "ts": "2025-11-11T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "nan",
+    "origin_city": "Mon",
+    "origin_country": "Spain",
+    "dest_city": "Desc.Lin",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 0.0,
+    "status": "Delivered",
+    "eta": "2025-11-12T14:00:00",
+    "last_seen": "2025-11-12T14:00:00",
+    "current_loc": "Desc.Lin",
+    "checkpoints": [
+      {
+        "ts": "2025-11-12T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "PAGADOS",
+    "origin_city": "EUR",
+    "origin_country": "Spain",
+    "dest_city": "0",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 0.0,
+    "status": "Delivered",
+    "eta": "1970-01-01T14:00:00",
+    "last_seen": "1970-01-01T14:00:00",
+    "current_loc": "0",
+    "checkpoints": [
+      {
+        "ts": "1970-01-01T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "DEBIDOS",
+    "origin_city": "EUR",
+    "origin_country": "Spain",
+    "dest_city": "10.51",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 0.0,
+    "status": "Delivered",
+    "eta": "1970-01-01T14:00:00",
+    "last_seen": "1970-01-01T14:00:00",
+    "current_loc": "10.51",
+    "checkpoints": [
+      {
+        "ts": "1970-01-01T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  },
+  {
+    "id": "TOTALES",
+    "origin_city": "EUR",
+    "origin_country": "Spain",
+    "dest_city": "10.51",
+    "dest_country": "Spain",
+    "product_type": "Pallet",
+    "carrier": "Europillow",
+    "pieces": 1,
+    "weight_kg": 0.0,
+    "status": "Delivered",
+    "eta": "1970-01-01T14:00:00",
+    "last_seen": "1970-01-01T14:00:00",
+    "current_loc": "10.51",
+    "checkpoints": [
+      {
+        "ts": "1970-01-01T14:00:00",
+        "label": "Delivered"
+      }
+    ],
+    "contact": {
+      "name": "Europillow Ops"
+    }
+  }
+]
