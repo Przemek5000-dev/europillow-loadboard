@@ -59,17 +59,16 @@ function formatDateTime(iso) {
 
 function fmtKg(n) {
   if (n == null) return "";
-  return new Intl.NumberFormat(undefined, {
-    maximumFractionDigits: 0,
-  }).format(n) + " kg";
+  return (
+    new Intl.NumberFormat("es-ES", {
+      maximumFractionDigits: 0,
+    }).format(n) + " kg"
+  );
 }
 
 function fmtMoney(n) {
   if (n == null || n === "") return "";
-  const num =
-    typeof n === "string"
-      ? Number(n.replace(",", "."))
-      : n;
+  const num = typeof n === "string" ? Number(n.replace(",", ".")) : n;
   if (Number.isNaN(num)) return "";
   return (
     new Intl.NumberFormat("es-ES", {
@@ -103,7 +102,9 @@ function normalizeShipment(raw) {
     lastCheckpointTs: lastCheckpoint?.ts ?? null,
     contactName: raw.contact?.name ?? "",
 
-    // NOWE POLA z Excela
+    // z Excela (enriched JSON)
+    fecha: raw.fecha ?? null,
+    expOri: raw.exp_ori ?? "",
     remitente: raw.remitente ?? "",
     consignatario: raw.consignatario ?? "",
     portes: raw.portes ?? null,
@@ -114,7 +115,7 @@ function normalizeShipment(raw) {
     seguro: raw.seguro ?? null,
     iva: raw.iva ?? null,
     total: raw.total ?? null,
-    paymentType: raw.payment_type ?? raw.forma_pago ?? "",
+    paymentType: raw.payment_type ?? "",
   };
 }
 
@@ -204,8 +205,8 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
       </section>
 
       {/* TABLE */}
-      <section className="overflow-x-auto rounded-xl border border-slate-800 bg-slate-900/60 shadow-lg shadow-black/40">
-        <table className="min-w-full border-collapse text-[11px] md:text-xs">
+      <section className="rounded-xl border border-slate-800 bg-slate-900/60 shadow-lg shadow-black/40">
+        <table className="w-full border-collapse text-[10px] md:text-xs">
           <thead className="bg-slate-900/80">
             <tr className="border-b border-slate-800 uppercase tracking-wide text-slate-400">
               <Th>ID</Th>
@@ -223,7 +224,7 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
               <Th className="text-right">Seguro</Th>
               <Th className="text-right">I.V.A</Th>
               <Th className="text-right">Total</Th>
-              <Th className="text-center">?</Th>
+              <Th className="text-center">?</</Th>
               <Th>Product</Th>
               <Th>Carrier</Th>
               <Th>Status</Th>
@@ -273,12 +274,11 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
                     </div>
                   </Td>
 
-                  {/* Remitente */}
+                  {/* Remitente / Consignatario */}
                   <Td>{s.remitente}</Td>
-                  {/* Consignatario */}
                   <Td>{s.consignatario}</Td>
 
-                  {/* Pieces / weight */}
+                  {/* Pieces / Weight */}
                   <Td className="text-right tabular-nums">{s.pieces ?? ""}</Td>
                   <Td className="text-right tabular-nums">{fmtKg(s.weightKg)}</Td>
 
@@ -294,7 +294,7 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
                     {fmtMoney(s.total)}
                   </Td>
 
-                  {/* ? (P / R / cokolwiek) */}
+                  {/* Payment type */}
                   <Td className="text-center">{s.paymentType}</Td>
 
                   {/* Product / carrier */}
@@ -353,12 +353,20 @@ function SummaryCard({ label, value, type }) {
 
 function Th({ children, className = "" }) {
   return (
-    <th className={`px-3 py-2 text-left align-middle ${className}`}>{children}</th>
+    <th
+      className={`px-2 py-1.5 text-left align-middle text-[10px] md:text-[11px] ${className}`}
+    >
+      {children}
+    </th>
   );
 }
 
 function Td({ children, className = "" }) {
   return (
-    <td className={`px-3 py-2 align-top text-slate-100 ${className}`}>{children}</td>
+    <td
+      className={`px-2 py-1.5 align-top text-slate-100 text-[10px] md:text-xs ${className}`}
+    >
+      {children}
+    </td>
   );
 }

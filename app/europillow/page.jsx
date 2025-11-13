@@ -5,7 +5,8 @@ import shipments from "@/lib/shipments.json";
 export default function Home() {
   return (
     <main className="min-h-screen bg-slate-950 text-slate-50">
-      <div className="mx-auto max-w-7xl px-4 py-8 space-y-6">
+      {/* szerzej: max do 1800px, prawie cały ekran */}
+      <div className="mx-auto w-full max-w-[1800px] px-6 py-8 space-y-6">
         <header className="space-y-2">
           <h1 className="text-2xl font-semibold tracking-tight">
             Europillow Loadboard
