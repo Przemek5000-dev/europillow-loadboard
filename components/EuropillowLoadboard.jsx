@@ -62,9 +62,11 @@ function formatDateTime(iso) {
 
 function fmtKg(n) {
   if (n == null) return "";
-  return new Intl.NumberFormat("es-ES", {
-    maximumFractionDigits: 0,
-  }).format(n) + " kg";
+  return (
+    new Intl.NumberFormat("es-ES", {
+      maximumFractionDigits: 0,
+    }).format(n) + " kg"
+  );
 }
 
 function fmtMoney(value) {
@@ -78,6 +80,13 @@ function fmtMoney(value) {
       maximumFractionDigits: 2,
     }).format(num) + " €"
   );
+}
+
+function fmtInt(n) {
+  const num = Number(n || 0);
+  return new Intl.NumberFormat("es-ES", {
+    maximumFractionDigits: 0,
+  }).format(num);
 }
 
 /* ============================================
@@ -120,12 +129,12 @@ function normalizeShipment(raw) {
     seguro: raw.seguro ?? null,
     iva: raw.iva ?? null,
     total: raw.total ?? null,
-    paymentType: raw.payment_type ?? "",
+    paymentType: raw.payment_type ?? "", // np. "P"
   };
 }
 
 /* ============================================
-   SUMMARY
+   SUMMARY (ilościowe)
 =============================================== */
 function computeStats(shipments) {
   return {
@@ -140,7 +149,49 @@ function computeStats(shipments) {
 }
 
 /* ============================================
-   MAIN WRAPPER (usuwa białe pole)
+   SUMMARY (finansowe PAGADOS / DEBIDOS / TOTALES)
+=============================================== */
+function calculatePaymentSummary(shipments) {
+  const initial = {
+    paid: { pieces: 0, kg: 0, portes: 0, iva: 0, total: 0, count: 0 },
+    due: { pieces: 0, kg: 0, portes: 0, iva: 0, total: 0, count: 0 },
+  };
+
+  const acc = shipments.reduce((acc, s) => {
+    // mapowanie z naszego JSON-a:
+    // P -> paid, D -> due (reszta ignorowana)
+    const status =
+      s.paymentType === "P"
+        ? "paid"
+        : s.paymentType === "D"
+        ? "due"
+        : null;
+
+    if (!status) return acc;
+
+    acc[status].pieces += s.pieces || 0;
+    acc[status].kg += s.weightKg || 0;
+    acc[status].portes += Number(s.portes || 0);
+    acc[status].iva += Number(s.iva || 0);
+    acc[status].total += Number(s.total || 0);
+    acc[status].count += 1;
+    return acc;
+  }, initial);
+
+  const totals = {
+    pieces: acc.paid.pieces + acc.due.pieces,
+    kg: acc.paid.kg + acc.due.kg,
+    portes: acc.paid.portes + acc.due.portes,
+    iva: acc.paid.iva + acc.due.iva,
+    total: acc.paid.total + acc.due.total,
+    count: acc.paid.count + acc.due.count,
+  };
+
+  return { paid: acc.paid, due: acc.due, totals };
+}
+
+/* ============================================
+   MAIN WRAPPER
 =============================================== */
 export default function EuropillowLoadboard({ initialShipments = [] }) {
   return (
@@ -182,10 +233,17 @@ function LoadboardContent({ initialShipments = [] }) {
   }, [search, normalized]);
 
   const stats = computeStats(normalized);
+  const paymentSummary = useMemo(
+    () => calculatePaymentSummary(normalized),
+    [normalized]
+  );
 
   return (
     <div className="space-y-4 px-4 py-4">
-      {/* SUMMARY CARDS */}
+      {/* ====== NOWY HEADER FINANSOWY (PAGADOS / DEBIDOS / TOTALES) ====== */}
+      <FinanceSummaryHeader summary={paymentSummary} />
+
+      {/* ====== ISTNIEJĄCE KARTY STATYSTYK ====== */}
       <section className="grid gap-3 md:grid-cols-5">
         <SummaryCard label="Total shipments" value={stats.total} />
         <SummaryCard label="Delivered" value={stats.delivered} type="success" />
@@ -307,7 +365,7 @@ function LoadboardContent({ initialShipments = [] }) {
 }
 
 /* ============================================
-   SMALL COMPONENTS
+   SUMMARY CARDS (ILOŚCIOWE)
 =============================================== */
 function SummaryCard({ label, value, type }) {
   const base =
@@ -329,6 +387,106 @@ function SummaryCard({ label, value, type }) {
   );
 }
 
+/* ============================================
+   NOWE KOMPONENTY FINANSOWE (HEADER)
+=============================================== */
+function FinanceSummaryHeader({ summary }) {
+  const { paid, due, totals } = summary;
+
+  return (
+    <div className="w-full rounded-2xl border border-slate-800 bg-slate-900/70 shadow-xl backdrop-blur flex flex-col gap-3 p-4">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <FinanceSummaryCard title="PAGADOS" currency="EUR" color="emerald" data={paid} />
+        <FinanceSummaryCard title="DEBIDOS" currency="EUR" color="amber" data={due} />
+        <FinanceSummaryCard title="TOTALES" currency="EUR" color="sky" data={totals} />
+      </div>
+
+      <div className="flex flex-wrap items-center justify-between gap-2 text-[11px] text-slate-400 pt-1">
+        <span>
+          Resumen del periodo filtrado (ej. hoy / esta semana / rango de fechas).
+        </span>
+        <span className="italic">
+          Los datos se calculan automáticamente a partir de las filas del loadboard.
+        </span>
+      </div>
+    </div>
+  );
+}
+
+function FinanceSummaryCard({ title, currency, color, data }) {
+  const borderColor =
+    color === "emerald"
+      ? "border-emerald-700/50"
+      : color === "amber"
+      ? "border-amber-700/40"
+      : "border-sky-700/60";
+
+  const bgColor =
+    color === "emerald"
+      ? "bg-emerald-900/20"
+      : color === "amber"
+      ? "bg-amber-900/15"
+      : "bg-sky-900/20";
+
+  const titleColor =
+    color === "emerald"
+      ? "text-emerald-300"
+      : color === "amber"
+      ? "text-amber-300"
+      : "text-sky-300";
+
+  const chipBg =
+    color === "emerald"
+      ? "bg-emerald-800/60 text-emerald-100/90"
+      : color === "amber"
+      ? "bg-amber-800/60 text-amber-100/90"
+      : "bg-sky-800/60 text-sky-100/90";
+
+  return (
+    <div
+      className={`rounded-2xl border ${borderColor} ${bgColor} px-4 py-3 flex flex-col gap-2`}
+    >
+      <div className="flex items-center justify-between">
+        <span className={`text-xs font-semibold uppercase tracking-wide ${titleColor}`}>
+          {title}
+        </span>
+        <span className={`text-[10px] px-2 py-0.5 rounded-full ${chipBg}`}>
+          {currency}
+        </span>
+      </div>
+      <div className="grid grid-cols-3 gap-x-4 gap-y-1 text-xs">
+        <FinanceStat label="BULTOS" value={fmtInt(data.pieces)} />
+        <FinanceStat label="KG" value={fmtInt(data.kg)} />
+        <FinanceStat label="PORTES" value={fmtMoney(data.portes)} />
+        <FinanceStat label="IVA" value={fmtMoney(data.iva)} />
+        <FinanceStat label="TOTAL" value={fmtMoney(data.total)} emphasis />
+        <FinanceStat label="Nº ALB." value={fmtInt(data.count)} />
+      </div>
+    </div>
+  );
+}
+
+function FinanceStat({ label, value, emphasis }) {
+  return (
+    <div className="flex flex-col gap-0.5">
+      <span className="text-[10px] uppercase tracking-[0.16em] text-slate-400">
+        {label}
+      </span>
+      <span
+        className={
+          "text-xs tabular-nums" +
+          (emphasis ? " font-semibold text-slate-50" : " text-slate-100")
+        }
+      >
+        {value}
+      </span>
+    </div>
+  );
+}
+
+/* ============================================
+   TABLE HELPERS
+=============================================== */
 function Th({ children, className = "" }) {
   return (
     <th
@@ -342,7 +500,7 @@ function Th({ children, className = "" }) {
 function Td({ children, className = "" }) {
   return (
     <td
-      className={`px-1 py-0.5 align-top text-slate-100 text-[8px] md:text-[9px]`}
+      className={`px-1 py-0.5 align-top text-slate-100 text-[8px] md:text-[9px] ${className}`}
     >
       {children}
     </td>
