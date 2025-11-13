@@ -44,7 +44,7 @@ function StatusPill({ status }) {
 
   return (
     <span
-      className={`inline-flex items-center gap-1.5 rounded-full px-2 py-0.5 text-[10px] font-medium ${s.pill}`}
+      className={`inline-flex items-center gap-1 rounded-full px-1.5 py-0.5 text-[8px] font-medium ${s.pill}`}
     >
       <span className={`h-1.5 w-1.5 rounded-full ${s.dot}`} />
       <Icon className="h-3 w-3" />
@@ -62,7 +62,9 @@ function formatDateTime(iso) {
 
 function fmtKg(n) {
   if (n == null) return "";
-  return new Intl.NumberFormat("es-ES", {}).format(n) + " kg";
+  return new Intl.NumberFormat("es-ES", {
+    maximumFractionDigits: 0,
+  }).format(n) + " kg";
 }
 
 function fmtMoney(value) {
@@ -70,10 +72,12 @@ function fmtMoney(value) {
   const num =
     typeof value === "string" ? Number(value.replace(",", ".")) : Number(value);
   if (Number.isNaN(num)) return "";
-  return new Intl.NumberFormat("es-ES", {
-    minimumFractionDigits: 2,
-    maximumFractionDigits: 2,
-  }).format(num) + " €";
+  return (
+    new Intl.NumberFormat("es-ES", {
+      minimumFractionDigits: 2,
+      maximumFractionDigits: 2,
+    }).format(num) + " €"
+  );
 }
 
 /* ============================================
@@ -103,7 +107,7 @@ function normalizeShipment(raw) {
     lastCheckpointTs: lastCheckpoint?.ts ?? null,
     contactName: raw.contact?.name ?? "",
 
-    // Excel enriched fields
+    // Excel-enriched fields
     fecha: raw.fecha ?? null,
     expOri: raw.exp_ori ?? "",
     remitente: raw.remitente ?? "",
@@ -136,7 +140,7 @@ function computeStats(shipments) {
 }
 
 /* ============================================
-   MAIN COMPONENT — WRAPPER REMOVES WHITE AREA
+   MAIN WRAPPER (usuwa białe pole)
 =============================================== */
 export default function EuropillowLoadboard({ initialShipments = [] }) {
   return (
@@ -181,7 +185,6 @@ function LoadboardContent({ initialShipments = [] }) {
 
   return (
     <div className="space-y-4 px-4 py-4">
-
       {/* SUMMARY CARDS */}
       <section className="grid gap-3 md:grid-cols-5">
         <SummaryCard label="Total shipments" value={stats.total} />
@@ -198,72 +201,72 @@ function LoadboardContent({ initialShipments = [] }) {
           <input
             type="text"
             placeholder="Search shipments..."
-            className="w-full rounded-lg border border-slate-700 bg-slate-900 px-8 py-2 text-sm text-white"
+            className="w-full rounded-lg border border-slate-700 bg-slate-900 px-8 py-2 text-xs text-white"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
           />
         </div>
-        <p className="text-xs text-slate-500">
+        <p className="text-[10px] text-slate-500">
           Showing {filtered.length} of {normalized.length}
         </p>
       </section>
 
       {/* TABLE */}
       <section className="w-full rounded-xl border border-slate-800 bg-slate-900/80 shadow-lg shadow-black/40 overflow-hidden">
-
-        <table className="w-full table-fixed border-collapse text-[9px] md:text-[10px]">
-
+        <table className="w-full table-fixed border-collapse text-[8px] md:text-[9px]">
           <thead className="bg-slate-900/90">
             <tr className="border-b border-slate-800 uppercase tracking-wide text-slate-400">
-              <Th className="w-[70px]">ID</Th>
-              <Th className="w-[80px]">Origin</Th>
-              <Th className="w-[100px]">Destination</Th>
-              <Th className="w-[150px]">Remitente</Th>
-              <Th className="w-[150px]">Consignatario</Th>
-              <Th className="w-[55px] text-right">Pcs</Th>
-              <Th className="w-[70px] text-right">Kg</Th>
-              <Th className="w-[65px] text-right">Portes</Th>
-              <Th className="w-[60px] text-right">Reexp</Th>
-              <Th className="w-[60px] text-right">Reemb</Th>
-              <Th className="w-[60px] text-right">G.R.</Th>
-              <Th className="w-[60px] text-right">Desemb</Th>
-              <Th className="w-[60px] text-right">Seguro</Th>
-              <Th className="w-[60px] text-right">IVA</Th>
-              <Th className="w-[70px] text-right">Total</Th>
-              <Th className="w-[35px] text-center">?</Th>
-              <Th className="w-[70px]">Product</Th>
-              <Th className="w-[80px]">Carrier</Th>
-              <Th className="w-[90px]">Status</Th>
-              <Th className="w-[110px]">ETA</Th>
-              <Th className="w-[110px]">Last Seen</Th>
-              <Th className="w-[120px]">Location</Th>
-              <Th className="w-[130px]">Checkpoint</Th>
-              <Th className="w-[100px]">Contact</Th>
+              <Th className="w-[65px]">ID</Th>
+              <Th className="w-[75px]">Origin</Th>
+              <Th className="w-[95px]">Destination</Th>
+              <Th className="w-[135px]">Remitente</Th>
+              <Th className="w-[135px]">Consignatario</Th>
+              <Th className="w-[48px] text-right">Pcs</Th>
+              <Th className="w-[60px] text-right">Kg</Th>
+              <Th className="w-[60px] text-right">Portes</Th>
+              <Th className="w-[55px] text-right">Reexp</Th>
+              <Th className="w-[55px] text-right">Reemb</Th>
+              <Th className="w-[55px] text-right">G.R.</Th>
+              <Th className="w-[55px] text-right">Desemb</Th>
+              <Th className="w-[55px] text-right">Seguro</Th>
+              <Th className="w-[55px] text-right">IVA</Th>
+              <Th className="w-[65px] text-right">Total</Th>
+              <Th className="w-[30px] text-center">?</Th>
+              <Th className="w-[65px]">Product</Th>
+              <Th className="w-[75px]">Carrier</Th>
+              <Th className="w-[80px]">Status</Th>
+              <Th className="w-[100px]">ETA</Th>
+              <Th className="w-[100px]">Last seen</Th>
+              <Th className="w-[110px]">Location</Th>
+              <Th className="w-[120px]">Checkpoint</Th>
+              <Th className="w-[90px]">Contact</Th>
             </tr>
           </thead>
 
           <tbody>
             {filtered.map((s) => (
-              <tr key={s.id} className="border-b border-slate-800/60 hover:bg-slate-800/60">
-
-                <Td className="font-mono">{s.id}</Td>
+              <tr
+                key={s.id}
+                className="border-b border-slate-800/60 hover:bg-slate-800/60"
+              >
+                <Td className="font-mono whitespace-nowrap">{s.id}</Td>
                 <Td>{s.originCity}</Td>
                 <Td>{s.destCity}</Td>
                 <Td className="truncate">{s.remitente}</Td>
                 <Td className="truncate">{s.consignatario}</Td>
 
-                <Td className="text-right">{s.pieces}</Td>
-                <Td className="text-right">{fmtKg(s.weightKg)}</Td>
+                <Td className="text-right tabular-nums">{s.pieces}</Td>
+                <Td className="text-right tabular-nums">{fmtKg(s.weightKg)}</Td>
 
-                <Td className="text-right">{fmtMoney(s.portes)}</Td>
-                <Td className="text-right">{fmtMoney(s.reexp)}</Td>
-                <Td className="text-right">{fmtMoney(s.reemb)}</Td>
-                <Td className="text-right">{fmtMoney(s.gReem)}</Td>
-                <Td className="text-right">{fmtMoney(s.desemb)}</Td>
-                <Td className="text-right">{fmtMoney(s.seguro)}</Td>
-                <Td className="text-right">{fmtMoney(s.iva)}</Td>
+                <Td className="text-right tabular-nums">{fmtMoney(s.portes)}</Td>
+                <Td className="text-right tabular-nums">{fmtMoney(s.reexp)}</Td>
+                <Td className="text-right tabular-nums">{fmtMoney(s.reemb)}</Td>
+                <Td className="text-right tabular-nums">{fmtMoney(s.gReem)}</Td>
+                <Td className="text-right tabular-nums">{fmtMoney(s.desemb)}</Td>
+                <Td className="text-right tabular-nums">{fmtMoney(s.seguro)}</Td>
+                <Td className="text-right tabular-nums">{fmtMoney(s.iva)}</Td>
 
-                <Td className="text-right font-semibold text-emerald-400">
+                <Td className="text-right font-semibold text-emerald-400 tabular-nums">
                   {fmtMoney(s.total)}
                 </Td>
 
@@ -272,16 +275,22 @@ function LoadboardContent({ initialShipments = [] }) {
                 <Td className="truncate">{s.productType}</Td>
                 <Td className="truncate">{s.carrier}</Td>
 
-                <Td><StatusPill status={s.status} /></Td>
+                <Td>
+                  <StatusPill status={s.status} />
+                </Td>
 
-                <Td>{formatDateTime(s.eta)}</Td>
-                <Td>{formatDateTime(s.lastSeen)}</Td>
-                <Td>{s.currentLoc}</Td>
+                <Td className="whitespace-nowrap">
+                  {formatDateTime(s.eta)}
+                </Td>
+                <Td className="whitespace-nowrap">
+                  {formatDateTime(s.lastSeen)}
+                </Td>
+                <Td className="truncate">{s.currentLoc}</Td>
 
                 <Td>
                   <div className="flex flex-col">
                     <span className="truncate">{s.lastCheckpointLabel}</span>
-                    <span className="text-[9px] text-slate-400 whitespace-nowrap">
+                    <span className="text-[8px] text-slate-400 whitespace-nowrap">
                       {formatDateTime(s.lastCheckpointTs)}
                     </span>
                   </div>
@@ -323,7 +332,7 @@ function SummaryCard({ label, value, type }) {
 function Th({ children, className = "" }) {
   return (
     <th
-      className={`px-1.5 py-1 text-left align-middle text-[9px] md:text-[10px] ${className}`}
+      className={`px-1 py-0.5 text-left align-middle text-[8px] md:text-[9px] ${className}`}
     >
       {children}
     </th>
@@ -333,7 +342,7 @@ function Th({ children, className = "" }) {
 function Td({ children, className = "" }) {
   return (
     <td
-      className={`px-1.5 py-1 align-top text-slate-100 text-[9px] md:text-[10px]`}
+      className={`px-1 py-0.5 align-top text-slate-100 text-[8px] md:text-[9px]`}
     >
       {children}
     </td>
