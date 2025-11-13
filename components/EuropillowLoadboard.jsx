@@ -60,8 +60,23 @@ function formatDateTime(iso) {
 function fmtKg(n) {
   if (n == null) return "";
   return new Intl.NumberFormat(undefined, {
-    maximumFractionDigits: 1,
+    maximumFractionDigits: 0,
   }).format(n) + " kg";
+}
+
+function fmtMoney(n) {
+  if (n == null || n === "") return "";
+  const num =
+    typeof n === "string"
+      ? Number(n.replace(",", "."))
+      : n;
+  if (Number.isNaN(num)) return "";
+  return (
+    new Intl.NumberFormat("es-ES", {
+      minimumFractionDigits: 2,
+      maximumFractionDigits: 2,
+    }).format(num) + " €"
+  );
 }
 
 function normalizeShipment(raw) {
@@ -87,6 +102,19 @@ function normalizeShipment(raw) {
     lastCheckpointLabel: lastCheckpoint?.label ?? "",
     lastCheckpointTs: lastCheckpoint?.ts ?? null,
     contactName: raw.contact?.name ?? "",
+
+    // NOWE POLA z Excela
+    remitente: raw.remitente ?? "",
+    consignatario: raw.consignatario ?? "",
+    portes: raw.portes ?? null,
+    reexp: raw.reexp ?? null,
+    reemb: raw.reemb ?? null,
+    gReem: raw.g_reem ?? null,
+    desemb: raw.desemb ?? null,
+    seguro: raw.seguro ?? null,
+    iva: raw.iva ?? null,
+    total: raw.total ?? null,
+    paymentType: raw.payment_type ?? raw.forma_pago ?? "",
   };
 }
 
@@ -134,7 +162,9 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
         s.destCity.toLowerCase().includes(q) ||
         s.carrier.toLowerCase().includes(q) ||
         s.productType.toLowerCase().includes(q) ||
-        s.currentLoc.toLowerCase().includes(q)
+        s.currentLoc.toLowerCase().includes(q) ||
+        s.remitente.toLowerCase().includes(q) ||
+        s.consignatario.toLowerCase().includes(q)
       );
     });
   }, [normalized, search]);
@@ -143,6 +173,7 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
 
   return (
     <div className="space-y-4">
+      {/* KPI / summary cards */}
       <section className="grid gap-3 md:grid-cols-5">
         <SummaryCard label="Total shipments" value={stats.total} />
         <SummaryCard label="Delivered" value={stats.delivered} type="success" />
@@ -151,12 +182,13 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
         <SummaryCard label="Total weight" value={fmtKg(stats.totalWeight)} />
       </section>
 
+      {/* Search */}
       <section className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
         <div className="relative w-full md:max-w-xs">
           <Search className="pointer-events-none absolute left-2.5 top-2.5 h-4 w-4 text-slate-500" />
           <input
             type="text"
-            placeholder="Search by ID, city, carrier..."
+            placeholder="Search by ID, city, remitente, carrier..."
             className="w-full rounded-lg border border-slate-700 bg-slate-900 px-8 py-2 text-sm text-slate-100 placeholder:text-slate-500 focus:border-emerald-500 focus:outline-none focus:ring-1 focus:ring-emerald-500"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
@@ -164,23 +196,36 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
         </div>
 
         <p className="text-xs text-slate-500">
-          Showing <span className="font-semibold text-slate-200">{filtered.length}</span>{" "}
-          of <span className="font-semibold text-slate-200">{normalized.length}</span>{" "}
+          Showing{" "}
+          <span className="font-semibold text-slate-200">{filtered.length}</span> of{" "}
+          <span className="font-semibold text-slate-200">{normalized.length}</span>{" "}
           shipments
         </p>
       </section>
 
+      {/* TABLE */}
       <section className="overflow-x-auto rounded-xl border border-slate-800 bg-slate-900/60 shadow-lg shadow-black/40">
-        <table className="min-w-full border-collapse text-xs md:text-sm">
+        <table className="min-w-full border-collapse text-[11px] md:text-xs">
           <thead className="bg-slate-900/80">
-            <tr className="border-b border-slate-800 text-[11px] uppercase tracking-wide text-slate-400">
+            <tr className="border-b border-slate-800 uppercase tracking-wide text-slate-400">
               <Th>ID</Th>
               <Th>Origin</Th>
               <Th>Destination</Th>
-              <Th>Product</Th>
-              <Th>Carrier</Th>
+              <Th>Remitente</Th>
+              <Th>Consignatario</Th>
               <Th className="text-right">Pieces</Th>
               <Th className="text-right">Weight</Th>
+              <Th className="text-right">Portes</Th>
+              <Th className="text-right">Reexp.</Th>
+              <Th className="text-right">Reemb.</Th>
+              <Th className="text-right">G.Reem.</Th>
+              <Th className="text-right">Desemb.</Th>
+              <Th className="text-right">Seguro</Th>
+              <Th className="text-right">I.V.A</Th>
+              <Th className="text-right">Total</Th>
+              <Th className="text-center">?</Th>
+              <Th>Product</Th>
+              <Th>Carrier</Th>
               <Th>Status</Th>
               <Th>ETA</Th>
               <Th>Last seen</Th>
@@ -192,7 +237,10 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
           <tbody>
             {filtered.length === 0 ? (
               <tr>
-                <td colSpan={13} className="px-4 py-6 text-center text-sm text-slate-500">
+                <td
+                  colSpan={24}
+                  className="px-4 py-6 text-center text-sm text-slate-500"
+                >
                   No shipments match your filters.
                 </td>
               </tr>
@@ -202,35 +250,63 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
                   key={s.id}
                   className="border-b border-slate-800/60 hover:bg-slate-800/60"
                 >
+                  {/* ID */}
                   <Td className="font-mono text-[11px] md:text-xs">{s.id}</Td>
 
+                  {/* Origin */}
                   <Td>
                     <div className="flex flex-col">
                       <span className="font-medium">{s.originCity}</span>
-                      <span className="text-[11px] text-slate-400">
+                      <span className="text-[10px] text-slate-400">
                         {s.originCountry}
                       </span>
                     </div>
                   </Td>
 
+                  {/* Destination */}
                   <Td>
                     <div className="flex flex-col">
                       <span className="font-medium">{s.destCity}</span>
-                      <span className="text-[11px] text-slate-400">
+                      <span className="text-[10px] text-slate-400">
                         {s.destCountry}
                       </span>
                     </div>
                   </Td>
 
-                  <Td>{s.productType}</Td>
-                  <Td>{s.carrier}</Td>
+                  {/* Remitente */}
+                  <Td>{s.remitente}</Td>
+                  {/* Consignatario */}
+                  <Td>{s.consignatario}</Td>
+
+                  {/* Pieces / weight */}
                   <Td className="text-right tabular-nums">{s.pieces ?? ""}</Td>
                   <Td className="text-right tabular-nums">{fmtKg(s.weightKg)}</Td>
 
+                  {/* Money columns */}
+                  <Td className="text-right tabular-nums">{fmtMoney(s.portes)}</Td>
+                  <Td className="text-right tabular-nums">{fmtMoney(s.reexp)}</Td>
+                  <Td className="text-right tabular-nums">{fmtMoney(s.reemb)}</Td>
+                  <Td className="text-right tabular-nums">{fmtMoney(s.gReem)}</Td>
+                  <Td className="text-right tabular-nums">{fmtMoney(s.desemb)}</Td>
+                  <Td className="text-right tabular-nums">{fmtMoney(s.seguro)}</Td>
+                  <Td className="text-right tabular-nums">{fmtMoney(s.iva)}</Td>
+                  <Td className="text-right font-semibold tabular-nums">
+                    {fmtMoney(s.total)}
+                  </Td>
+
+                  {/* ? (P / R / cokolwiek) */}
+                  <Td className="text-center">{s.paymentType}</Td>
+
+                  {/* Product / carrier */}
+                  <Td>{s.productType}</Td>
+                  <Td>{s.carrier}</Td>
+
+                  {/* Status */}
                   <Td>
                     <StatusPill status={s.status} />
                   </Td>
 
+                  {/* Dates / locations */}
                   <Td>{formatDateTime(s.eta)}</Td>
                   <Td>{formatDateTime(s.lastSeen)}</Td>
                   <Td>{s.currentLoc}</Td>
@@ -238,7 +314,7 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
                   <Td>
                     <div className="flex flex-col">
                       <span>{s.lastCheckpointLabel}</span>
-                      <span className="text-[11px] text-slate-400">
+                      <span className="text-[10px] text-slate-400">
                         {formatDateTime(s.lastCheckpointTs)}
                       </span>
                     </div>
@@ -277,9 +353,7 @@ function SummaryCard({ label, value, type }) {
 
 function Th({ children, className = "" }) {
   return (
-    <th className={`px-3 py-2 text-left align-middle ${className}`}>
-      {children}
-    </th>
+    <th className={`px-3 py-2 text-left align-middle ${className}`}>{children}</th>
   );
 }
 
