@@ -224,7 +224,7 @@ export default function EuropillowLoadboard({ initialShipments = [] }) {
               <Th className="text-right">Seguro</Th>
               <Th className="text-right">I.V.A</Th>
               <Th className="text-right">Total</Th>
-              <Th className="text-center">?</</Th>
+              <Th className="text-center">?</Th>
               <Th>Product</Th>
               <Th>Carrier</Th>
               <Th>Status</Th>
