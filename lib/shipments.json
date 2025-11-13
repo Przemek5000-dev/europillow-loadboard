@@ -21,7 +21,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CONWAY THE CONVENIENCE COMPANY, S.A.",
+    "consignatario": "RUTA 2590 SALAMANCA",
+    "portes": 221.19,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 46.45,
+    "total": 267.64,
+    "payment_type": "P"
   },
   {
     "id": "00052133",
@@ -45,7 +57,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CONWAY THE CONVENIENCE COMPANY, S.A.",
+    "consignatario": "RUTA 2591 SALAMANCA",
+    "portes": 60.96,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 12.8,
+    "total": 73.76,
+    "payment_type": "P"
   },
   {
     "id": "00052134",
@@ -69,7 +93,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CONWAY THE CONVENIENCE COMPANY, S.A.",
+    "consignatario": "RUTA 2593",
+    "portes": 371.12,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 77.94,
+    "total": 449.06,
+    "payment_type": "P"
   },
   {
     "id": "00052135",
@@ -93,7 +129,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CONWAY THE CONVENIENCE COMPANY, S.A.",
+    "consignatario": "RUTA 2594 LINARES DE RIOFRIO",
+    "portes": 225.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 47.25,
+    "total": 272.25,
+    "payment_type": "P"
   },
   {
     "id": "00052136",
@@ -117,7 +165,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CONWAY THE CONVENIENCE COMPANY, S.A.",
+    "consignatario": "RUTA 2594   PEÑACABALLERA, LA MAYA, B EJ",
+    "portes": 200.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 42.0,
+    "total": 242.0,
+    "payment_type": "P"
   },
   {
     "id": "00052137",
@@ -141,7 +201,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CONWAY THE CONVENIENCE COMPANY, S.A.",
+    "consignatario": "RUTA 2595 ALAEJOS",
+    "portes": 110.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 23.1,
+    "total": 133.1,
+    "payment_type": "P"
   },
   {
     "id": "00052138",
@@ -165,7 +237,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CONWAY THE CONVENIENCE COMPANY, S.A.",
+    "consignatario": "RUTA 2596",
+    "portes": 97.51,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 20.48,
+    "total": 117.99,
+    "payment_type": "P"
   },
   {
     "id": "00052187",
@@ -189,7 +273,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "GIL CARDUS",
+    "consignatario": "PORCISAN SA",
+    "portes": 115.56,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 9.24,
+    "iva": 26.21,
+    "total": 151.01,
+    "payment_type": "D"
   },
   {
     "id": "00052365",
@@ -213,7 +309,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "TRANSPORTES FRIGORIFICOS NARVAL S.L.",
+    "consignatario": "TIERRA SALAMANCA SL",
+    "portes": 13.06,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 2.74,
+    "total": 15.8,
+    "payment_type": "P"
   },
   {
     "id": "00052366",
@@ -237,7 +345,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "TRANSPORTES FRIGORIFICOS NARVAL S.L.",
+    "consignatario": "UNIDE CASH BEJAR",
+    "portes": 9.67,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 2.03,
+    "total": 11.7,
+    "payment_type": "P"
   },
   {
     "id": "00052367",
@@ -261,7 +381,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "TRANSPORTES FRIGORIFICOS NARVAL S.L.",
+    "consignatario": "GRUPO NAPOLI SALAMANCA",
+    "portes": 38.55,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 8.1,
+    "total": 46.65,
+    "payment_type": "P"
   },
   {
     "id": "00052368",
@@ -285,7 +417,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "TRANSPORTES FRIGORIFICOS NARVAL S.L.",
+    "consignatario": "ALIMENTOS CONGELADOS RUFO S.L.",
+    "portes": 63.92,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 13.42,
+    "total": 77.34,
+    "payment_type": "P"
   },
   {
     "id": "00052369",
@@ -309,7 +453,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "TRANSPORTES FRIGORIFICOS NARVAL S.L.",
+    "consignatario": "TROZZOIBERICO",
+    "portes": 9.29,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 1.95,
+    "total": 11.24,
+    "payment_type": "P"
   },
   {
     "id": "00052392",
@@ -333,7 +489,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "DS SMITH-MCIA PASADA DE PLAZA",
+    "consignatario": "TRANSLINK, S.A.U. (ARRASTRES)",
+    "portes": 1.8,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.38,
+    "total": 2.18,
+    "payment_type": "D"
   },
   {
     "id": "00052408",
@@ -357,7 +525,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "SEGURAXIRA SERVIÇOS",
+    "consignatario": "NEW FIRE ICE SLU",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "D"
   },
   {
     "id": "00052409",
@@ -381,7 +561,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PM PRO",
+    "consignatario": "TRACTOREFACTORY S.L.",
+    "portes": 297.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 62.37,
+    "total": 359.37,
+    "payment_type": "D"
   },
   {
     "id": "00052410",
@@ -405,7 +597,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PALETS",
+    "consignatario": "JUAN MANUEL HERNANDEZ S.A.",
+    "portes": 0.01,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.01,
+    "payment_type": "P"
   },
   {
     "id": "00052411",
@@ -429,7 +633,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "TRANSLINK VALLADOLID.",
+    "consignatario": "TRANSLINK, S.A.U. (ARRASTRES)",
+    "portes": 48.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 10.08,
+    "total": 58.08,
+    "payment_type": "D"
   },
   {
     "id": "00052412",
@@ -453,7 +669,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "AQUADUCTIL, S.L.",
+    "consignatario": "ELITUBOS-ELISIO TEIXEIRA LDA",
+    "portes": 500.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 105.0,
+    "total": 605.0,
+    "payment_type": "P"
   },
   {
     "id": "00052413",
@@ -477,7 +705,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CHACINERIAS DIAZ S.A.",
+    "consignatario": "SMA FOOD TRADE LDA",
+    "portes": 600.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 126.0,
+    "total": 726.0,
+    "payment_type": "P"
   },
   {
     "id": "00052414",
@@ -501,7 +741,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CETAREA SALMANTINA, S.L.",
+    "consignatario": "RESIDENCIA LUIS VALENCIANO",
+    "portes": 83.2,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 8.32,
+    "iva": 19.22,
+    "total": 110.74,
+    "payment_type": "P"
   },
   {
     "id": "00052415",
@@ -525,7 +777,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "AGROPECUARIA LA LURDA SL(D.ULPIANO)",
+    "consignatario": "EXCLUSIVAS APOLO",
+    "portes": 28.93,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 2.89,
+    "iva": 6.68,
+    "total": 38.5,
+    "payment_type": "P"
   },
   {
     "id": "00052416",
@@ -549,7 +813,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "AGROPECUARIA LA LURDA SL(D.ULPIANO)",
+    "consignatario": "DISMOLCAR SL",
+    "portes": 25.14,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 2.51,
+    "iva": 5.81,
+    "total": 33.46,
+    "payment_type": "P"
   },
   {
     "id": "00052417",
@@ -573,7 +849,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "RAZAPORK S.L.",
+    "consignatario": "PLAZA PREMIUM LOUNGE SPAIN",
+    "portes": 57.27,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 5.73,
+    "iva": 13.23,
+    "total": 76.23,
+    "payment_type": "P"
   },
   {
     "id": "00052418",
@@ -597,7 +885,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CARNICAS JOSELITO S.A.",
+    "consignatario": "EL CORTE INGLES GRANDES ARMAZENS LISBOA",
+    "portes": 60.38,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 12.68,
+    "total": 73.06,
+    "payment_type": "P"
   },
   {
     "id": "00052419",
@@ -621,7 +921,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LUIS DOMINGO HERNÁNDEZ E HIJOS S.L.",
+    "consignatario": "TRANSMEDITERRANEA LOGISTICA",
+    "portes": 57.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 5.7,
+    "iva": 13.17,
+    "total": 75.87,
+    "payment_type": "P"
   },
   {
     "id": "00052420",
@@ -645,7 +957,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LUIS DOMINGO HERNÁNDEZ E HIJOS S.L.",
+    "consignatario": "ALIVAL SELECTES",
+    "portes": 26.66,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 2.67,
+    "iva": 6.16,
+    "total": 35.49,
+    "payment_type": "P"
   },
   {
     "id": "00052421",
@@ -669,7 +993,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LUIS DOMINGO HERNÁNDEZ E HIJOS S.L.",
+    "consignatario": "JOSEP MARIA SENDRA FONT-AROMA IBERIC",
+    "portes": 18.9,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.89,
+    "iva": 4.37,
+    "total": 25.16,
+    "payment_type": "P"
   },
   {
     "id": "00052422",
@@ -693,7 +1029,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "RFL CARGO LOGISTICA SL",
+    "consignatario": "AGROTECNICA 2000 SL",
+    "portes": 75.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 15.75,
+    "total": 90.75,
+    "payment_type": "P"
   },
   {
     "id": "00052423",
@@ -717,7 +1065,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "CONSERVAS ALLO SL",
+    "portes": 19.96,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 4.19,
+    "total": 24.15,
+    "payment_type": "P"
   },
   {
     "id": "00052424",
@@ -741,7 +1101,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "LA ALACENA VITORIA",
+    "portes": 17.75,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 3.73,
+    "total": 21.48,
+    "payment_type": "P"
   },
   {
     "id": "00052425",
@@ -765,7 +1137,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "JESUS CURTO ROGADO",
+    "consignatario": "LA MIRANDESA-CELEDON",
+    "portes": 31.87,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 6.69,
+    "total": 38.56,
+    "payment_type": "P"
   },
   {
     "id": "00052426",
@@ -789,7 +1173,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LEGUMBRES FERNANDEZ HERRERO S.L.",
+    "consignatario": "GUSTAVO GOMEZ",
+    "portes": 8.69,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 1.82,
+    "total": 10.51,
+    "payment_type": "P"
   },
   {
     "id": "00052427",
@@ -813,7 +1209,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BERNARDO HERNANDEZ S.L.",
+    "consignatario": "JAMONIUM BILBAO SL",
+    "portes": 49.92,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 10.48,
+    "total": 60.4,
+    "payment_type": "P"
   },
   {
     "id": "00052428",
@@ -837,7 +1245,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BERNARDO HERNANDEZ S.L.",
+    "consignatario": "EURL SABORES LOGISTA SAN SEBASTIAN",
+    "portes": 12.69,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 2.66,
+    "total": 15.35,
+    "payment_type": "P"
   },
   {
     "id": "00052429",
@@ -861,7 +1281,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "MIGUEL MARTIN GOMEZ SL",
+    "consignatario": "FRIPECAN GUADALAJARA",
+    "portes": 93.36,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 9.34,
+    "iva": 21.57,
+    "total": 124.27,
+    "payment_type": "P"
   },
   {
     "id": "00052430",
@@ -885,7 +1317,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "NEWENER NUEVA ENERGIA SL",
+    "consignatario": "AMAQ ELEVACION S.L.",
+    "portes": 60.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 6.0,
+    "iva": 13.86,
+    "total": 79.86,
+    "payment_type": "P"
   },
   {
     "id": "00052431",
@@ -909,7 +1353,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJOS DE ATILANO GONZALEZ S.L.",
+    "consignatario": "CASTRO SERRANO",
+    "portes": 83.75,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 6.7,
+    "iva": 18.99,
+    "total": 109.44,
+    "payment_type": "P"
   },
   {
     "id": "00052432",
@@ -933,7 +1389,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "NORMEZA 3000, S.L.",
+    "consignatario": "TRATAMIENTOS TERMICOS MIG",
+    "portes": 48.79,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 10.25,
+    "total": 59.04,
+    "payment_type": "P"
   },
   {
     "id": "00052433",
@@ -957,7 +1425,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CARLOS PARRA GONZALEZ",
+    "consignatario": "JAMONERIA SALGADO NARROS",
+    "portes": 10.16,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.0,
+    "iva": 2.34,
+    "total": 13.5,
+    "payment_type": "P"
   },
   {
     "id": "00052434",
@@ -981,7 +1461,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "SIMON MARTIN GUIJUELO SL",
+    "consignatario": "SEMARK AC GROUP SA",
+    "portes": 55.08,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 5.51,
+    "iva": 12.72,
+    "total": 73.31,
+    "payment_type": "P"
   },
   {
     "id": "00052435",
@@ -1005,7 +1497,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BERNARDO HERNANDEZ S.L.",
+    "consignatario": "EL CORTE INGLES BELOURA",
+    "portes": 60.38,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 12.68,
+    "total": 73.06,
+    "payment_type": "P"
   },
   {
     "id": "00052436",
@@ -1029,7 +1533,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "SIMON MARTIN GUIJUELO SL",
+    "consignatario": "SEMARK AC GROUP SA",
+    "portes": 56.99,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 5.7,
+    "iva": 13.16,
+    "total": 75.85,
+    "payment_type": "P"
   },
   {
     "id": "00052437",
@@ -1053,7 +1569,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BERNARDO HERNANDEZ S.L.",
+    "consignatario": "EL CORTE INGLES",
+    "portes": 39.09,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 8.21,
+    "total": 47.3,
+    "payment_type": "P"
   },
   {
     "id": "00052438",
@@ -1077,7 +1605,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BERNARDO HERNANDEZ S.L.",
+    "consignatario": "RECOMENDO LDA",
+    "portes": 39.09,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 8.21,
+    "total": 47.3,
+    "payment_type": "P"
   },
   {
     "id": "00052439",
@@ -1101,7 +1641,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BERNARDO HERNANDEZ S.L.",
+    "consignatario": "BEHER SANTIAGO SL",
+    "portes": 18.83,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 3.95,
+    "total": 22.78,
+    "payment_type": "P"
   },
   {
     "id": "00052440",
@@ -1125,7 +1677,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CUATRO MIL CEPAS SL",
+    "consignatario": "DE VINOS ZORITA SLU",
+    "portes": 31.67,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 2.53,
+    "iva": 7.18,
+    "total": 41.38,
+    "payment_type": "P"
   },
   {
     "id": "00052441",
@@ -1149,7 +1713,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BERNARDO HERNANDEZ S.L.",
+    "consignatario": "DEGUSTACIONES SANTANDER",
+    "portes": 19.57,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 4.11,
+    "total": 23.68,
+    "payment_type": "P"
   },
   {
     "id": "00052442",
@@ -1173,7 +1749,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BERNARDO HERNANDEZ S.L.",
+    "consignatario": "VIANDAS DE GUIJUELO",
+    "portes": 54.25,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 11.39,
+    "total": 65.64,
+    "payment_type": "P"
   },
   {
     "id": "00052443",
@@ -1197,7 +1785,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BERNARDO HERNANDEZ S.L.",
+    "consignatario": "JAMONIUN BILBAO TIENDAS BEHER",
+    "portes": 61.35,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 12.88,
+    "total": 74.23,
+    "payment_type": "P"
   },
   {
     "id": "00052444",
@@ -1221,7 +1821,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ENRIQUE GARCIA SL",
+    "consignatario": "DISTRIBUCIONES MERLOBA, S.L.U",
+    "portes": 344.01,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 34.4,
+    "iva": 79.47,
+    "total": 457.88,
+    "payment_type": "P"
   },
   {
     "id": "00052445",
@@ -1245,7 +1857,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PRODUCTOS IBÉRICOS VIZCAINO, S.L.U.",
+    "consignatario": "PREMIUM SELECCION 1960 SL",
+    "portes": 205.69,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 20.57,
+    "iva": 47.51,
+    "total": 273.77,
+    "payment_type": "P"
   },
   {
     "id": "00052446",
@@ -1269,7 +1893,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "REBOALJA",
+    "consignatario": "TRANSPORTES FRIGORIFICOS NARVAL S.L.",
+    "portes": 63.92,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 15.98,
+    "seguro": 0.0,
+    "iva": 16.78,
+    "total": 96.68,
+    "payment_type": "D"
   },
   {
     "id": "00052447",
@@ -1293,7 +1929,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PERNISAL.",
+    "consignatario": "TRANSPORTES FRIGORIFICOS NARVAL S.L.",
+    "portes": 38.55,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 8.1,
+    "total": 46.65,
+    "payment_type": "D"
   },
   {
     "id": "00052448",
@@ -1317,7 +1965,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "MILLASUR SL",
+    "consignatario": "AGROJARDIN JULIAN, S.L.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052449",
@@ -1341,7 +2001,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "TRANSPAIS",
+    "consignatario": "ALLIANCE HEALTHCARE SALAMANCA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052450",
@@ -1365,7 +2037,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BODEGAS SOMMOS",
+    "consignatario": "ANTONIO FERNANDEZ BARRIGON (NACEX ZAMORA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052451",
@@ -1389,7 +2073,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ALDITRAEX NORTE",
+    "consignatario": "CARLOS DEMETRIO, S.L.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052452",
@@ -1413,7 +2109,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "JOMAN LOGISTIC",
+    "consignatario": "PINTURAS AYELENSES,SL - SALAMANCA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052453",
@@ -1437,7 +2145,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "MILLASUR SL",
+    "consignatario": "SUMINISTROS MIGUEL ANGEL CB",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052454",
@@ -1461,7 +2181,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "MILLASUR SL",
+    "consignatario": "SUMINISTROS MIGUEL ANGEL CB",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052455",
@@ -1485,7 +2217,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "GEMAX S.L.",
+    "consignatario": "DIALGASA S.L.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052456",
@@ -1509,7 +2253,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "GEMAX S.L.",
+    "consignatario": "CCIAL. SERMOVI AGRO S.L.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052457",
@@ -1533,7 +2289,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "TEWIS SMART SYSTEMS S.L.U.",
+    "consignatario": "SUPERMERCADO DIA DR-46094",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052458",
@@ -1557,7 +2325,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "VIVERS VERDOLIVA S L",
+    "consignatario": "PAULA GARCIA FRAILE",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052459",
@@ -1581,7 +2361,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "TEMPLO FOOD DELEGACION MADRID",
+    "consignatario": "PARADOR DE PUEBLA DE SANABRIA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052460",
@@ -1605,7 +2397,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "TRANSNATUR NORTE",
+    "consignatario": "SYNEOX RAIL",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052461",
@@ -1629,7 +2433,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "TEMPLO FOOD DELEGACION MADRID",
+    "consignatario": "PARADOR DE SALAMANCA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052462",
@@ -1653,7 +2469,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ORUJOS AÑO SANTO S.L.",
+    "consignatario": "TOMAS Y PERIS SL",
+    "portes": 72.35,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 15.19,
+    "total": 87.54,
+    "payment_type": "P"
   },
   {
     "id": "00052505",
@@ -1677,7 +2505,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PIRELLI",
+    "consignatario": "RECAU. PACO E HIJOS, S.L.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052507",
@@ -1701,7 +2541,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BRIDGESTONE EUROPE NV S.A.",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052509",
@@ -1725,7 +2577,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PIRELLI DISTRIBUCION",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052510",
@@ -1749,7 +2613,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052512",
@@ -1773,7 +2649,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052513",
@@ -1797,7 +2685,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052514",
@@ -1821,7 +2721,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052516",
@@ -1845,7 +2757,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052517",
@@ -1869,7 +2793,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BRIDGESTONE EUROPE NV S.A.",
+    "consignatario": "NEUMATICO MIROBRIGA SLL",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052518",
@@ -1893,7 +2829,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PIRELLI DISTRIBUCION",
+    "consignatario": "ARV. RECAUCHUTADOS PACO E HIJOS, S.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052519",
@@ -1917,7 +2865,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052520",
@@ -1941,7 +2901,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052521",
@@ -1965,7 +2937,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052522",
@@ -1989,7 +2973,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052523",
@@ -2013,7 +3009,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BRIDGESTONE EUROPE NV S.A.",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052524",
@@ -2037,7 +3045,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052525",
@@ -2061,7 +3081,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052526",
@@ -2085,7 +3117,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052530",
@@ -2109,7 +3153,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052531",
@@ -2133,7 +3189,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PIRELLI DISTRIBUCION",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052532",
@@ -2157,7 +3225,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052533",
@@ -2181,7 +3261,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PIRELLI DISTRIBUCION",
+    "consignatario": "(2BS)RECAUCHUTADOS PACO E HIJOS, SL",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052534",
@@ -2205,7 +3297,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052535",
@@ -2229,7 +3333,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BRIDGESTONE EUROPE NV S.A.",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052536",
@@ -2253,7 +3369,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PIRELLI DISTRIBUCION",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052537",
@@ -2277,7 +3405,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052538",
@@ -2301,7 +3441,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052539",
@@ -2325,7 +3477,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PIRELLI DISTRIBUCION",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052540",
@@ -2349,7 +3513,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PIRELLI DISTRIBUCION",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052541",
@@ -2373,7 +3549,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PIRELLI DISTRIBUCION",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052542",
@@ -2397,7 +3585,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052543",
@@ -2421,7 +3621,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052544",
@@ -2445,7 +3657,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052545",
@@ -2469,7 +3693,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BRIDGESTONE EUROPE NV S.A.",
+    "consignatario": "VULCANIZADOS BALDAJOS, S.L (MONTALV:SALA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052546",
@@ -2493,7 +3729,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PIRELLI DISTRIBUCION",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052547",
@@ -2517,7 +3765,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052549",
@@ -2541,7 +3801,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BRIDGESTONE EUROPE NV S.A.",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052550",
@@ -2565,7 +3837,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PIRELLI DISTRIBUCION",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052551",
@@ -2589,7 +3873,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BRIDGESTONE EUROPE NV S.A.",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052552",
@@ -2613,7 +3909,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052553",
@@ -2637,7 +3945,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052554",
@@ -2661,7 +3981,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PIRELLI DISTRIBUCION",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052555",
@@ -2685,7 +4017,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052556",
@@ -2709,7 +4053,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052557",
@@ -2733,7 +4089,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052558",
@@ -2757,7 +4125,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052559",
@@ -2781,7 +4161,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BRIDGESTONE EUROPE NV S.A.",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052560",
@@ -2805,7 +4197,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BRIDGESTONE EUROPE NV S.A.",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052562",
@@ -2829,7 +4233,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PIRELLI DISTRIBUCION",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052563",
@@ -2853,7 +4269,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PIRELLI DISTRIBUCION",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052565",
@@ -2877,7 +4305,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052566",
@@ -2901,7 +4341,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052567",
@@ -2925,7 +4377,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052568",
@@ -2949,7 +4413,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052569",
@@ -2973,7 +4449,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BRIDGESTONE EUROPE NV S.A.",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052570",
@@ -2997,7 +4485,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "SAN JOSE NEUMATICOS Y ACCESORIOS SL",
+    "consignatario": "NEUMATICOS JOTAYME, S.L.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052571",
@@ -3021,7 +4521,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "SAN JOSE NEUMATICOS Y ACCESORIOS SL",
+    "consignatario": "TALLERES AMARANTO SL",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052572",
@@ -3045,7 +4557,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052573",
@@ -3069,7 +4593,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BRIDGESTONE EUROPE NV S.A.",
+    "consignatario": "NEUMATICOS ANDRES, S.A.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052574",
@@ -3093,7 +4629,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052575",
@@ -3117,7 +4665,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "XPO \"KUMHO\"",
+    "consignatario": "NEUMATICOS ANDRES S.A.U (D)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052576",
@@ -3141,7 +4701,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BRIDGESTONE EUROPE NV S.A.",
+    "consignatario": "VULCANIZADOS BALDAJOS, S.L (MONTALV:SALA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052582",
@@ -3165,7 +4737,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "MASTER BATTERY, SL",
+    "consignatario": "VASBE, S.L.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052589",
@@ -3189,7 +4773,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "KOOLAIR DIFUSION DE AIRE SL 0",
+    "consignatario": "PROYECT BUILDING",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052594",
@@ -3213,7 +4809,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "KRONOSPAN S.L.U",
+    "consignatario": "PAVIMENTOS DE MADERA LUMBER SL",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052596",
@@ -3237,7 +4845,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CHARLOTTE SARA -PAQUETERIA Y PALETERIA-",
+    "consignatario": "BAZAR HUASA SL",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052597",
@@ -3261,7 +4881,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "COMERCIAL CISAMAR S.A",
+    "consignatario": "MT MARIA AUXILIADORA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052598",
@@ -3285,7 +4917,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "NUBA SCREENING MEDIA SL",
+    "consignatario": "ACEINSA SALAMANCA, S.A",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052614",
@@ -3309,7 +4953,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ACTIV MEDICAL IBERICA S.L.",
+    "consignatario": "GESTINMEDICA SALAMANCA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052615",
@@ -3333,7 +4989,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "SENNDA TRAFICO -PAQ Y PAL-",
+    "consignatario": "ACEINSA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052616",
@@ -3357,7 +5025,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LYRECO ESPANA -PAQ, XL, LARGOS-",
+    "consignatario": "SERVICIO TERRITORIAL DE AGRICULTURA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052624",
@@ -3381,7 +5061,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "EXCLUSIVAS SAN PEDRO, S.L.",
+    "consignatario": "COLISEE SANTA MARTA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052626",
@@ -3405,7 +5097,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "AVANTE",
+    "consignatario": "EL SECRETARIO",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052627",
@@ -3429,7 +5133,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "MARIA SOL GARROTE RAMOS",
+    "consignatario": "PILAR LOPEZ",
+    "portes": 17.59,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 3.69,
+    "total": 21.28,
+    "payment_type": "P"
   },
   {
     "id": "00052628",
@@ -3453,7 +5169,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "NEW FIRE ICE SLU",
+    "consignatario": "HIEME-HIGIENE E SEGURANÇA LDA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052629",
@@ -3477,7 +5205,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "NEW FIRE ICE SLU",
+    "consignatario": "EXTINRISCO LDA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052630",
@@ -3501,7 +5241,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ALFARERIA PERERUELA SIGLO XVI S.L.",
+    "consignatario": "EXTREME WATR SPORT",
+    "portes": 59.96,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 12.59,
+    "total": 72.55,
+    "payment_type": "P"
   },
   {
     "id": "00052631",
@@ -3525,7 +5277,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "NEW FIRE ICE SLU",
+    "consignatario": "SEGURAXIRA SERVIÇOS DE SEGURANÇA INDUSTR",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052632",
@@ -3549,7 +5313,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PABLO INGELMO SANCHEZ",
+    "consignatario": "VIEMEDAC7 SL",
+    "portes": 84.76,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 6.78,
+    "iva": 19.22,
+    "total": 110.76,
+    "payment_type": "P"
   },
   {
     "id": "00052633",
@@ -3573,7 +5349,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "C.E. JARA, S.A.",
+    "consignatario": "ESSAN SL",
+    "portes": 104.69,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 10.47,
+    "iva": 24.18,
+    "total": 139.34,
+    "payment_type": "P"
   },
   {
     "id": "00052634",
@@ -3597,7 +5385,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "NEW FIRE ICE SLU",
+    "consignatario": "EXPRESSOFOGO-COM MAT COMB INCENDIO",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052635",
@@ -3621,7 +5421,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CESAR NIETO GROUP SL",
+    "consignatario": "FRIGORIFICOS MAFRISA",
+    "portes": 50.25,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 5.03,
+    "iva": 11.61,
+    "total": 66.89,
+    "payment_type": "P"
   },
   {
     "id": "00052636",
@@ -3645,7 +5457,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "UNIDE - UNIDAD ALIMENTARIA MERCAMADRID",
+    "portes": 49.6,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 10.42,
+    "total": 60.02,
+    "payment_type": "P"
   },
   {
     "id": "00052637",
@@ -3669,7 +5493,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ALFARERIA PERERUELA SIGLO XVI S.L.",
+    "consignatario": "PEDRO MOLINA LOPEZ",
+    "portes": 60.02,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 12.6,
+    "total": 72.62,
+    "payment_type": "P"
   },
   {
     "id": "00052638",
@@ -3693,7 +5529,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "NEW FIRE ICE SLU",
+    "consignatario": "CARFOGO",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052639",
@@ -3717,7 +5565,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ALVAR DE DIOS SL",
+    "consignatario": "BODEBOCA",
+    "portes": 50.33,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 4.03,
+    "iva": 11.42,
+    "total": 65.78,
+    "payment_type": "P"
   },
   {
     "id": "00052640",
@@ -3741,7 +5601,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "ASADOR DE POLLOS VICTOR",
+    "portes": 8.37,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 1.76,
+    "total": 10.13,
+    "payment_type": "P"
   },
   {
     "id": "00052641",
@@ -3765,7 +5637,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "ROSALIA MARTIN FONTANEZ",
+    "portes": 16.94,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 3.56,
+    "total": 20.5,
+    "payment_type": "P"
   },
   {
     "id": "00052642",
@@ -3789,7 +5673,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "UN TE CON MARIA",
+    "portes": 8.37,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 1.76,
+    "total": 10.13,
+    "payment_type": "P"
   },
   {
     "id": "00052643",
@@ -3813,7 +5709,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "ALUBIA PLANT SL",
+    "portes": 90.74,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 19.06,
+    "total": 109.8,
+    "payment_type": "P"
   },
   {
     "id": "00052644",
@@ -3837,7 +5745,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "VERDFLOR SLU",
+    "portes": 22.85,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 4.8,
+    "total": 27.65,
+    "payment_type": "P"
   },
   {
     "id": "00052645",
@@ -3861,7 +5781,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CAYO RODRIGUEZ SL",
+    "consignatario": "JOSE LUIS TEROL BERNAL",
+    "portes": 21.28,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.7,
+    "iva": 4.83,
+    "total": 27.81,
+    "payment_type": "P"
   },
   {
     "id": "00052646",
@@ -3885,7 +5817,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "HERRBOLARIO HIEDRA",
+    "portes": 15.57,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 3.27,
+    "total": 18.84,
+    "payment_type": "P"
   },
   {
     "id": "00052647",
@@ -3909,7 +5853,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "ARAGRANEL",
+    "portes": 20.57,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 4.32,
+    "total": 24.89,
+    "payment_type": "P"
   },
   {
     "id": "00052648",
@@ -3933,7 +5889,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CAYO RODRIGUEZ SL",
+    "consignatario": "GRUPO VINISUR SLU",
+    "portes": 10.19,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.0,
+    "iva": 2.35,
+    "total": 13.54,
+    "payment_type": "P"
   },
   {
     "id": "00052649",
@@ -3957,7 +5925,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CAYO RODRIGUEZ SL",
+    "consignatario": "JOSE ANTONIO INAREJOS GARCIA",
+    "portes": 40.21,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 3.22,
+    "iva": 9.12,
+    "total": 52.55,
+    "payment_type": "P"
   },
   {
     "id": "00052650",
@@ -3981,7 +5961,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CAYO RODRIGUEZ SL",
+    "consignatario": "MORALBA RESTAURACION",
+    "portes": 13.68,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.09,
+    "iva": 3.1,
+    "total": 17.87,
+    "payment_type": "P"
   },
   {
     "id": "00052651",
@@ -4005,7 +5997,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "GREEN TEA",
+    "portes": 6.99,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 1.47,
+    "total": 8.46,
+    "payment_type": "P"
   },
   {
     "id": "00052652",
@@ -4029,7 +6033,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CAYO RODRIGUEZ SL",
+    "consignatario": "ANDRES GARCIA BONILLO",
+    "portes": 13.24,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.06,
+    "iva": 3.0,
+    "total": 17.3,
+    "payment_type": "P"
   },
   {
     "id": "00052653",
@@ -4053,7 +6069,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PABLO INGELMO SANCHEZ",
+    "consignatario": "DIEGO LOPEZ",
+    "portes": 21.38,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.71,
+    "iva": 4.85,
+    "total": 27.94,
+    "payment_type": "P"
   },
   {
     "id": "00052654",
@@ -4077,7 +6105,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CAYO RODRIGUEZ SL",
+    "consignatario": "IDC JOSE MANUEL ARIZA SLU",
+    "portes": 28.57,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 2.29,
+    "iva": 6.48,
+    "total": 37.34,
+    "payment_type": "P"
   },
   {
     "id": "00052655",
@@ -4101,7 +6141,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CAYO RODRIGUEZ SL",
+    "consignatario": "LILI XU",
+    "portes": 11.73,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.0,
+    "iva": 2.67,
+    "total": 15.4,
+    "payment_type": "P"
   },
   {
     "id": "00052656",
@@ -4125,7 +6177,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CAYO RODRIGUEZ SL",
+    "consignatario": "FRANCISCO REYES AGUAYO",
+    "portes": 22.81,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.82,
+    "iva": 5.17,
+    "total": 29.8,
+    "payment_type": "P"
   },
   {
     "id": "00052657",
@@ -4149,7 +6213,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "RIKIISIMO",
+    "portes": 8.1,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 1.7,
+    "total": 9.8,
+    "payment_type": "P"
   },
   {
     "id": "00052658",
@@ -4173,7 +6249,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CAYO RODRIGUEZ SL",
+    "consignatario": "ACEBEDO YMARTIN CB",
+    "portes": 26.51,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 2.12,
+    "iva": 6.01,
+    "total": 34.64,
+    "payment_type": "P"
   },
   {
     "id": "00052659",
@@ -4197,7 +6285,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "LO MAS NATURAL-MIGUEL ANGEL ZAPATERO",
+    "portes": 8.1,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 1.7,
+    "total": 9.8,
+    "payment_type": "P"
   },
   {
     "id": "00052660",
@@ -4221,7 +6321,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LEGUMER PRECOCINADOS, S.L.",
+    "consignatario": "CAMPO SEGOVIANO",
+    "portes": 26.72,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 5.61,
+    "total": 32.33,
+    "payment_type": "P"
   },
   {
     "id": "00052661",
@@ -4245,7 +6357,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CAYO RODRIGUEZ SL",
+    "consignatario": "DARANSA GOURMET SL",
+    "portes": 18.08,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.45,
+    "iva": 4.1,
+    "total": 23.63,
+    "payment_type": "P"
   },
   {
     "id": "00052662",
@@ -4269,7 +6393,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "ALIMENTACION ALVAREDO",
+    "portes": 17.75,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 3.73,
+    "total": 21.48,
+    "payment_type": "P"
   },
   {
     "id": "00052663",
@@ -4293,7 +6429,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LEGUMBRES FERNANDEZ HERRERO S.L.",
+    "consignatario": "AGROMAT BALEAR",
+    "portes": 8.17,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 1.72,
+    "total": 9.89,
+    "payment_type": "P"
   },
   {
     "id": "00052664",
@@ -4317,7 +6465,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "GRANELO ALIMENTACION SL",
+    "portes": 17.03,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 3.58,
+    "total": 20.61,
+    "payment_type": "P"
   },
   {
     "id": "00052665",
@@ -4341,7 +6501,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "FERNANDO BERNARDO HARO. BODEGA CESAR BER",
+    "consignatario": "PEPITA MUÑOZ MERIDA",
+    "portes": 14.41,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 3.03,
+    "total": 17.44,
+    "payment_type": "P"
   },
   {
     "id": "00052666",
@@ -4365,7 +6537,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ALVAR DE DIOS SL",
+    "consignatario": "VINOS DE ALTA EXPRESION",
+    "portes": 34.77,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 2.78,
+    "iva": 7.89,
+    "total": 45.44,
+    "payment_type": "P"
   },
   {
     "id": "00052667",
@@ -4389,7 +6573,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CAYO RODRIGUEZ SL",
+    "consignatario": "DAVID GAUDENCIO DOMINGO HERRERA",
+    "portes": 10.19,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.0,
+    "iva": 2.35,
+    "total": 13.54,
+    "payment_type": "P"
   },
   {
     "id": "00052668",
@@ -4413,7 +6609,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CAYO RODRIGUEZ SL",
+    "consignatario": "SERGIO JIMENEZ LOPEZ",
+    "portes": 24.8,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.98,
+    "iva": 5.62,
+    "total": 32.4,
+    "payment_type": "P"
   },
   {
     "id": "00052669",
@@ -4437,7 +6645,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "PANGEA ECOTIENDA",
+    "portes": 14.83,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 3.11,
+    "total": 17.94,
+    "payment_type": "P"
   },
   {
     "id": "00052670",
@@ -4461,7 +6681,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HIJO DE MACARIO MARCOS, S.L.",
+    "consignatario": "SILVIA ESCOBAR PONS",
+    "portes": 22.85,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 4.8,
+    "total": 27.65,
+    "payment_type": "P"
   },
   {
     "id": "00052671",
@@ -4485,7 +6717,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CESAR NIETO GROUP SL",
+    "consignatario": "CRISOFEN HERMANOS SL",
+    "portes": 18.44,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.84,
+    "iva": 4.26,
+    "total": 24.54,
+    "payment_type": "P"
   },
   {
     "id": "00052672",
@@ -4509,7 +6753,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ALVAR DE DIOS SL",
+    "consignatario": "PEDRO MARTIN MOLANO",
+    "portes": 13.4,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.07,
+    "iva": 3.04,
+    "total": 17.51,
+    "payment_type": "P"
   },
   {
     "id": "00052673",
@@ -4533,7 +6789,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CAYO RODRIGUEZ SL",
+    "consignatario": "SALVA ALIMENTACION",
+    "portes": 21.28,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.7,
+    "iva": 4.83,
+    "total": 27.81,
+    "payment_type": "P"
   },
   {
     "id": "00052674",
@@ -4557,7 +6825,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CEPAS VIÑA DANIEL, S.L.",
+    "consignatario": "ARTIEM BAL RESTAURANTE",
+    "portes": 15.39,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 3.23,
+    "total": 18.62,
+    "payment_type": "P"
   },
   {
     "id": "00052675",
@@ -4581,7 +6861,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ALVAR DE DIOS SL",
+    "consignatario": "LUIS CARRACEDO",
+    "portes": 12.65,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.01,
+    "iva": 2.87,
+    "total": 16.53,
+    "payment_type": "P"
   },
   {
     "id": "00052676",
@@ -4605,7 +6897,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ENOTURISMO TORO SL",
+    "consignatario": "GRAND SLAM SPAIN",
+    "portes": 23.26,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 2.33,
+    "iva": 5.37,
+    "total": 30.96,
+    "payment_type": "P"
   },
   {
     "id": "00052677",
@@ -4629,7 +6933,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ENOTURISMO TORO SL",
+    "consignatario": "GCR COMUNICACION SL",
+    "portes": 23.26,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 2.33,
+    "iva": 5.37,
+    "total": 30.96,
+    "payment_type": "P"
   },
   {
     "id": "00052678",
@@ -4653,7 +6969,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HERMANOS DE LA FUENTE CB",
+    "consignatario": "JUAN CARLOS RODRIGUEZ INGELMO",
+    "portes": 33.93,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 7.13,
+    "total": 41.06,
+    "payment_type": "P"
   },
   {
     "id": "00052679",
@@ -4677,7 +7005,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ONTIME CORPORATE UNION, S.A.",
+    "consignatario": "CECOTEC ALFAFAR",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052680",
@@ -4701,7 +7041,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ONTIME CORPORATE UNION, S.A.",
+    "consignatario": "ISABEL VILELLA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052681",
@@ -4725,7 +7077,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ONTIME CORPORATE UNION, S.A.",
+    "consignatario": "BAUHAUS  (KATOEN NATIE IBERICA)",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052682",
@@ -4749,7 +7113,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ONTIME CORPORATE UNION, S.A.",
+    "consignatario": "EL DECANTAOR",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052683",
@@ -4773,7 +7149,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ONTIME CORPORATE UNION, S.A.",
+    "consignatario": "IMPACT METHOD LDA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052684",
@@ -4797,7 +7185,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ONTIME CORPORATE UNION, S.A.",
+    "consignatario": "LA BOHEMIA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052685",
@@ -4821,7 +7221,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CAYO RODRIGUEZ SL",
+    "consignatario": "BERNARDO FERNANDEZ RODRIGUEZ",
+    "portes": 7.81,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.0,
+    "iva": 1.85,
+    "total": 10.66,
+    "payment_type": "P"
   },
   {
     "id": "00052686",
@@ -4845,7 +7257,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ONTIME CORPORATE UNION, S.A.",
+    "consignatario": "AQUABLUE PREMIUM WATER S.L.U.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052687",
@@ -4869,7 +7293,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ONTIME CORPORATE UNION, S.A.",
+    "consignatario": "JOAO PEREIRA",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "00052706",
@@ -4893,7 +7329,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "EMBUTIDOS GUIJUELO 15SL",
+    "consignatario": "EMBUTIDOS GUIJUELO 15 S.L.",
+    "portes": 164.11,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 34.46,
+    "total": 198.57,
+    "payment_type": "P"
   },
   {
     "id": "00052714",
@@ -4917,7 +7365,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "BAYROL IBÉRICA,  S.L.U  (BNS)",
+    "consignatario": "ZAMORAGUA SL",
+    "portes": 10.45,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 2.19,
+    "total": 12.64,
+    "payment_type": "P"
   },
   {
     "id": "00052715",
@@ -4941,7 +7401,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IADA",
+    "consignatario": "REPUESTOS Y SERVICIOS, S.L.",
+    "portes": 235.06,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 49.36,
+    "total": 284.42,
+    "payment_type": "P"
   },
   {
     "id": "00052716",
@@ -4965,7 +7437,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "STENCO INDUSTRIAL, S.L.",
+    "consignatario": "NANTA",
+    "portes": 54.85,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 11.52,
+    "total": 66.37,
+    "payment_type": "P"
   },
   {
     "id": "00052717",
@@ -4989,7 +7473,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CHEMIFLOOR, S.A.",
+    "consignatario": "PAVITENCA TORO",
+    "portes": 78.35,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 16.45,
+    "total": 94.8,
+    "payment_type": "P"
   },
   {
     "id": "00052718",
@@ -5013,7 +7509,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "GEA FARM TECHNOLOGIES IBERICA,",
+    "consignatario": "COBADU S.COOP.LTDA. BAJO DUERO",
+    "portes": 106.33,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 22.33,
+    "total": 128.66,
+    "payment_type": "P"
   },
   {
     "id": "05010438",
@@ -5037,7 +7545,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "MAES HONEY INT SLU",
+    "consignatario": "PD - ALFENA N/P 5531",
+    "portes": 181.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 38.01,
+    "total": 219.01,
+    "payment_type": "P"
   },
   {
     "id": "05010439",
@@ -5061,7 +7581,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "MAES HONEY INT SLU",
+    "consignatario": "PD - AZAMBUJA N/P 5401",
+    "portes": 272.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 57.12,
+    "total": 329.12,
+    "payment_type": "P"
   },
   {
     "id": "05010440",
@@ -5085,7 +7617,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "HERMANOS ALONSO DE GUIJUELO SL",
+    "consignatario": "ARCA CATENARIA, S.L.",
+    "portes": 69.44,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 5.56,
+    "iva": 15.75,
+    "total": 90.75,
+    "payment_type": "P"
   },
   {
     "id": "05010442",
@@ -5109,7 +7653,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "SALAZONES CARNICOS HERME SL, JAMONES PIN",
+    "consignatario": "JAMONES IGLEMAR SL",
+    "portes": 69.11,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 5.53,
+    "iva": 15.67,
+    "total": 90.31,
+    "payment_type": "P"
   },
   {
     "id": "05010443",
@@ -5133,7 +7689,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LISARDO CASTRO MARTIN, S.L.",
+    "consignatario": "PEREIRA MELEMDEZ ROSA CARNICERIA AL PUNT",
+    "portes": 24.82,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.99,
+    "iva": 5.63,
+    "total": 32.44,
+    "payment_type": "P"
   },
   {
     "id": "05010444",
@@ -5157,7 +7725,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LISARDO CASTRO MARTIN, S.L.",
+    "consignatario": "TRANSPORTES MASCARO-MORERA",
+    "portes": 17.2,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.38,
+    "iva": 3.9,
+    "total": 22.48,
+    "payment_type": "P"
   },
   {
     "id": "05010445",
@@ -5181,7 +7761,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "F. HERNANDEZ JIMENEZ E HIJOS SL",
+    "consignatario": "JUAN RAMON REINA GARCIA",
+    "portes": 58.71,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 4.7,
+    "iva": 13.32,
+    "total": 76.73,
+    "payment_type": "P"
   },
   {
     "id": "05010446",
@@ -5205,7 +7797,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "JUAN MANUEL HERNANDEZ S.A.",
+    "consignatario": "JAMONES ARTESAN 2022, S.L.",
+    "portes": 277.2,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 58.21,
+    "total": 335.41,
+    "payment_type": "P"
   },
   {
     "id": "05010447",
@@ -5229,7 +7833,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PARRO GLOBAL FOOD SL",
+    "consignatario": "CARNICERIA ELIAS - FASUAM KOSHER GROUP",
+    "portes": 16.65,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.67,
+    "iva": 3.85,
+    "total": 22.17,
+    "payment_type": "P"
   },
   {
     "id": "05010448",
@@ -5253,7 +7869,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "JUAN MANUEL HERNANDEZ S.A.",
+    "consignatario": "XARCUTERIA MANERAS",
+    "portes": 67.52,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 14.18,
+    "total": 81.7,
+    "payment_type": "P"
   },
   {
     "id": "05010449",
@@ -5277,7 +7905,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "JUAN MANUEL HERNANDEZ S.A.",
+    "consignatario": "JOSE LUIS GUTIERREZ JIMENEZ",
+    "portes": 35.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 7.35,
+    "total": 42.35,
+    "payment_type": "P"
   },
   {
     "id": "05010450",
@@ -5301,7 +7941,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PARRO GLOBAL FOOD SL",
+    "consignatario": "CANES ALAMO",
+    "portes": 16.65,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.67,
+    "iva": 3.85,
+    "total": 22.17,
+    "payment_type": "P"
   },
   {
     "id": "05010451",
@@ -5325,7 +7977,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LISARDO CASTRO MARTIN, S.L.",
+    "consignatario": "PEREZ Y REÑONES SC",
+    "portes": 64.5,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 5.16,
+    "iva": 14.63,
+    "total": 84.29,
+    "payment_type": "P"
   },
   {
     "id": "05010452",
@@ -5349,7 +8013,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IMTRADES ZAMORA S.L.",
+    "consignatario": "KOVER SIGLO XXI - COGULLADA",
+    "portes": 19.92,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.59,
+    "iva": 4.52,
+    "total": 26.03,
+    "payment_type": "P"
   },
   {
     "id": "05010453",
@@ -5373,7 +8049,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "INDUSTRIAS PARGON C.B.",
+    "consignatario": "BOLSAS DE PLASTICO CATALUÑA",
+    "portes": 61.92,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 13.0,
+    "total": 74.92,
+    "payment_type": "P"
   },
   {
     "id": "05010454",
@@ -5397,7 +8085,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "JUAN MANUEL HERNANDEZ S.A.",
+    "consignatario": "EL CORTE INGLES TARRAGONA",
+    "portes": 47.13,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 9.9,
+    "total": 57.03,
+    "payment_type": "P"
   },
   {
     "id": "05010455",
@@ -5421,7 +8121,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CEFERINO PARRA S.A",
+    "consignatario": "MARIA ENCARNACION CARMONA NOGALES",
+    "portes": 132.76,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 13.28,
+    "iva": 30.67,
+    "total": 176.71,
+    "payment_type": "P"
   },
   {
     "id": "05010456",
@@ -5445,7 +8157,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CEFERINO PARRA S.A",
+    "consignatario": "JUAN CARLOS JURADO CASTILLEJO",
+    "portes": 110.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 11.0,
+    "iva": 25.41,
+    "total": 146.41,
+    "payment_type": "P"
   },
   {
     "id": "05010458",
@@ -5469,7 +8193,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LOS HIDALGOS DE GUIJUELO S.L. LA TERESIN",
+    "consignatario": "H.M.B. JAMONES, S.L.",
+    "portes": 34.69,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 3.47,
+    "iva": 8.01,
+    "total": 46.17,
+    "payment_type": "P"
   },
   {
     "id": "05010459",
@@ -5493,7 +8229,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LOS HIDALGOS DE GUIJUELO S.L. LA TERESIN",
+    "consignatario": "CAMPANAZO 92 95 S.L.U.",
+    "portes": 41.98,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 4.2,
+    "iva": 9.7,
+    "total": 55.88,
+    "payment_type": "P"
   },
   {
     "id": "05010460",
@@ -5517,7 +8265,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LISARDO CASTRO MARTIN, S.L.",
+    "consignatario": "SIERRABER 2007 SL",
+    "portes": 83.93,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 6.71,
+    "iva": 19.03,
+    "total": 109.67,
+    "payment_type": "P"
   },
   {
     "id": "05010461",
@@ -5541,7 +8301,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LOS HIDALGOS DE GUIJUELO S.L. LA TERESIN",
+    "consignatario": "DISTRIBUCIONES IZQUIERDO DE HOSTELERIA,",
+    "portes": 34.69,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 3.47,
+    "iva": 8.01,
+    "total": 46.17,
+    "payment_type": "P"
   },
   {
     "id": "05010462",
@@ -5565,7 +8337,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LOS HIDALGOS DE GUIJUELO S.L. LA TERESIN",
+    "consignatario": "ANTONIO TAMAYO MORA",
+    "portes": 58.02,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 5.8,
+    "iva": 13.4,
+    "total": 77.22,
+    "payment_type": "P"
   },
   {
     "id": "05010463",
@@ -5589,7 +8373,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LOS HIDALGOS DE GUIJUELO S.L. LA TERESIN",
+    "consignatario": "HOSTEL OLEUM SEVILLA, S.L.",
+    "portes": 61.97,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 6.2,
+    "iva": 14.32,
+    "total": 82.49,
+    "payment_type": "P"
   },
   {
     "id": "05010464",
@@ -5613,7 +8409,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CARLOS DEMETRIO, S.L.",
+    "consignatario": "MERCA RODRIGUEZ S.L.U",
+    "portes": 12.34,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 2.59,
+    "total": 14.93,
+    "payment_type": "P"
   },
   {
     "id": "05010465",
@@ -5637,7 +8445,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "TALLERES BRAYMA, S.A.L.",
+    "consignatario": "SANTAMARIA MERINO S L",
+    "portes": 47.41,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 9.96,
+    "total": 57.37,
+    "payment_type": "P"
   },
   {
     "id": "05010466",
@@ -5661,7 +8481,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "MAES HONEY INT SLU",
+    "consignatario": "ENRIQUE JOSÉ MAZÓN GOÑI",
+    "portes": 131.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 27.51,
+    "total": 158.51,
+    "payment_type": "P"
   },
   {
     "id": "05010467",
@@ -5685,7 +8517,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "JAMONES Y EMBUTIDOS MAERA S.L.",
+    "consignatario": "IGNACIO LAGUARDA SAGARRA",
+    "portes": 19.55,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.56,
+    "iva": 4.43,
+    "total": 25.54,
+    "payment_type": "P"
   },
   {
     "id": "05010468",
@@ -5709,7 +8553,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "MANUEL PARRA E HIJOS S.L.",
+    "consignatario": "DISTRIBUCIONES GARCIA, S.L.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "05010469",
@@ -5733,7 +8589,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "MANUEL PARRA E HIJOS S.L.",
+    "consignatario": "EMBUTIDOS Y JAMONES RAYBEL, S.L.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "05010470",
@@ -5757,7 +8625,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PARRA GONZALEZ, S.A.",
+    "consignatario": "LEPRISA GOURMET S.L",
+    "portes": 36.23,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 2.9,
+    "iva": 8.22,
+    "total": 47.35,
+    "payment_type": "P"
   },
   {
     "id": "05010471",
@@ -5781,7 +8661,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "MANUEL PARRA E HIJOS S.L.",
+    "consignatario": "MARIA ROSARIO HORMIGO ROMAN",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "05010472",
@@ -5805,7 +8697,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IMTRADES ZAMORA S.L.",
+    "consignatario": "ENERGIMAC SEGURIDAD Y CONFORT, S.L.",
+    "portes": 12.61,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.01,
+    "iva": 2.86,
+    "total": 16.48,
+    "payment_type": "P"
   },
   {
     "id": "05010473",
@@ -5829,7 +8733,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CARNICAS J. MENCAS E HIJOS, S.L.",
+    "consignatario": "CARNICAS  ODRIOZOLA, S.L.",
+    "portes": 23.26,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 2.33,
+    "iva": 5.37,
+    "total": 30.96,
+    "payment_type": "P"
   },
   {
     "id": "05010474",
@@ -5853,7 +8769,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "INDUSTRIAS PARGON C.B.",
+    "consignatario": "CALOPLASTIC S.L.",
+    "portes": 127.51,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 26.78,
+    "total": 154.29,
+    "payment_type": "P"
   },
   {
     "id": "05010475",
@@ -5877,7 +8805,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "FEPALESCA, S.A.",
+    "consignatario": "SUPERMERCADOS PARDO, S.L.",
+    "portes": 42.15,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 8.85,
+    "total": 51.0,
+    "payment_type": "P"
   },
   {
     "id": "05010476",
@@ -5901,7 +8841,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IMTRADES ZAMORA S.L.",
+    "consignatario": "OBRA 539 GSE (TECNYDECK 2012)",
+    "portes": 12.61,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.01,
+    "iva": 2.86,
+    "total": 16.48,
+    "payment_type": "P"
   },
   {
     "id": "05010477",
@@ -5925,7 +8877,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "FEPALESCA, S.A.",
+    "consignatario": "MARIA GADOR (JAMONERIA PATA NEGRA)",
+    "portes": 49.01,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 10.29,
+    "total": 59.3,
+    "payment_type": "P"
   },
   {
     "id": "05010478",
@@ -5949,7 +8913,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "F. HERNANDEZ JIMENEZ E HIJOS SL",
+    "consignatario": "DISTRIBUCIONES NOGUERAS, SL",
+    "portes": 38.4,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 3.07,
+    "iva": 8.71,
+    "total": 50.18,
+    "payment_type": "P"
   },
   {
     "id": "05010479",
@@ -5973,7 +8949,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "ENMERJOSA S.L.",
+    "consignatario": "DISTRIBUCIONES MAR Y SIERRA",
+    "portes": 135.01,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 13.5,
+    "iva": 31.19,
+    "total": 179.7,
+    "payment_type": "P"
   },
   {
     "id": "05010480",
@@ -5997,7 +8985,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PORCISAN SA",
+    "consignatario": "IBERICOS LA ABADIA, S.L.",
+    "portes": 43.08,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 3.45,
+    "iva": 9.77,
+    "total": 56.3,
+    "payment_type": "P"
   },
   {
     "id": "05010481",
@@ -6021,7 +9021,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "FEPALESCA, S.A.",
+    "consignatario": "GUMERSINDO OLLERO CANO",
+    "portes": 110.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 23.1,
+    "total": 133.1,
+    "payment_type": "P"
   },
   {
     "id": "05010482",
@@ -6045,7 +9057,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IMTRADES ZAMORA S.L.",
+    "consignatario": "CUBIERTAS ROVI, S.L.",
+    "portes": 59.9,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 4.79,
+    "iva": 13.58,
+    "total": 78.27,
+    "payment_type": "P"
   },
   {
     "id": "05010483",
@@ -6069,7 +9093,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "JAMONES Y EMBUTIDOS MAERA S.L.",
+    "consignatario": "JOSE LUIS ARROYO DELGADO",
+    "portes": 16.2,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.3,
+    "iva": 3.68,
+    "total": 21.18,
+    "payment_type": "P"
   },
   {
     "id": "05010484",
@@ -6093,7 +9129,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "JUAN MANUEL HERNANDEZ S.A.",
+    "consignatario": "CHARCUTERIA NIEVES",
+    "portes": 98.28,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 20.64,
+    "total": 118.92,
+    "payment_type": "P"
   },
   {
     "id": "05010485",
@@ -6117,7 +9165,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IMTRADES ZAMORA S.L.",
+    "consignatario": "OBRA MIJAS (NORTONEI)",
+    "portes": 19.18,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.53,
+    "iva": 4.35,
+    "total": 25.06,
+    "payment_type": "P"
   },
   {
     "id": "05010486",
@@ -6141,7 +9201,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CEFERINO PARRA S.A",
+    "consignatario": "EVA Mª CASTILLO PALOMO (ECON. IBERICO)",
+    "portes": 38.4,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 3.84,
+    "iva": 8.87,
+    "total": 51.11,
+    "payment_type": "P"
   },
   {
     "id": "05010487",
@@ -6165,7 +9237,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PARRA GONZALEZ, S.A.",
+    "consignatario": "SHR BADEN BADEN S.L",
+    "portes": 18.98,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.52,
+    "iva": 4.31,
+    "total": 24.81,
+    "payment_type": "P"
   },
   {
     "id": "05010488",
@@ -6189,7 +9273,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LOS HIDALGOS DE GUIJUELO S.L. LA TERESIN",
+    "consignatario": "CARREFOUR JOSE LAGUILLO-MARKET",
+    "portes": 31.99,
+    "reexp": 1.04,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 3.2,
+    "iva": 7.61,
+    "total": 43.84,
+    "payment_type": "P"
   },
   {
     "id": "05010489",
@@ -6213,7 +9309,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LOS HIDALGOS DE GUIJUELO S.L. LA TERESIN",
+    "consignatario": "CARREFOUR GRECO",
+    "portes": 31.99,
+    "reexp": 1.04,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 3.2,
+    "iva": 7.61,
+    "total": 43.84,
+    "payment_type": "P"
   },
   {
     "id": "05010490",
@@ -6237,7 +9345,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LOS HIDALGOS DE GUIJUELO S.L. LA TERESIN",
+    "consignatario": "CARREFOUR ALFALFA",
+    "portes": 31.99,
+    "reexp": 1.04,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 3.2,
+    "iva": 7.61,
+    "total": 43.84,
+    "payment_type": "P"
   },
   {
     "id": "05010491",
@@ -6261,7 +9381,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CEFERINO PARRA S.A",
+    "consignatario": "SELECTED IBERIAN SL",
+    "portes": 52.14,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 5.21,
+    "iva": 12.04,
+    "total": 69.39,
+    "payment_type": "P"
   },
   {
     "id": "05010492",
@@ -6285,7 +9417,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LOS HIDALGOS DE GUIJUELO S.L. LA TERESIN",
+    "consignatario": "CARREFOUR FELIPE II",
+    "portes": 31.99,
+    "reexp": 1.04,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 3.2,
+    "iva": 7.61,
+    "total": 43.84,
+    "payment_type": "P"
   },
   {
     "id": "05010493",
@@ -6309,7 +9453,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IMTRADES ZAMORA S.L.",
+    "consignatario": "ITALPANNELLI IBÉRICA, S.A.",
+    "portes": 23.53,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.88,
+    "iva": 5.34,
+    "total": 30.75,
+    "payment_type": "P"
   },
   {
     "id": "05010494",
@@ -6333,7 +9489,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "MANUEL PARRA E HIJOS S.L.",
+    "consignatario": "JUAN Y PEPE, S.L.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "05010495",
@@ -6357,7 +9525,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LOS HIDALGOS DE GUIJUELO S.L. LA TERESIN",
+    "consignatario": "CARREFOUR VIAPOL CENTER-MARKET",
+    "portes": 31.99,
+    "reexp": 1.04,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 3.2,
+    "iva": 7.61,
+    "total": 43.84,
+    "payment_type": "P"
   },
   {
     "id": "05010496",
@@ -6381,7 +9561,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "LOS HIDALGOS DE GUIJUELO S.L. LA TERESIN",
+    "consignatario": "CARREFOUR ASUNCION",
+    "portes": 31.99,
+    "reexp": 1.04,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 3.2,
+    "iva": 7.61,
+    "total": 43.84,
+    "payment_type": "P"
   },
   {
     "id": "05010497",
@@ -6405,7 +9597,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "JAMONES Y EMBUTIDOS ANTONIO MARTIN MARTI",
+    "consignatario": "JAMONES QUESADA CARPIO, S.L.",
+    "portes": 66.88,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 14.04,
+    "total": 80.92,
+    "payment_type": "P"
   },
   {
     "id": "05010498",
@@ -6429,7 +9633,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CEFERINO PARRA S.A",
+    "consignatario": "MANUEL ORTIZ VILLALTA",
+    "portes": 47.41,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 4.74,
+    "iva": 10.95,
+    "total": 63.1,
+    "payment_type": "P"
   },
   {
     "id": "05010499",
@@ -6453,7 +9669,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PRODUCTOS CONGELADOS JOSE LUIS SL",
+    "consignatario": "PARADOR DE ARGOMANIZ",
+    "portes": 25.9,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 2.59,
+    "iva": 5.98,
+    "total": 34.47,
+    "payment_type": "P"
   },
   {
     "id": "05010500",
@@ -6477,7 +9705,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PRODUCTOS CONGELADOS JOSE LUIS SL",
+    "consignatario": "PARADOR DE VILALBA",
+    "portes": 22.43,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 2.24,
+    "iva": 5.18,
+    "total": 29.85,
+    "payment_type": "P"
   },
   {
     "id": "05010501",
@@ -6501,7 +9741,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "PRODUCTOS CONGELADOS JOSE LUIS SL",
+    "consignatario": "PARADOR DE MAZAGON",
+    "portes": 30.24,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 3.02,
+    "iva": 6.98,
+    "total": 40.24,
+    "payment_type": "P"
   },
   {
     "id": "05010502",
@@ -6525,7 +9777,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CEFERINO PARRA S.A",
+    "consignatario": "FOOD MANCHEGOS S.L.",
+    "portes": 22.58,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 2.26,
+    "iva": 5.22,
+    "total": 30.06,
+    "payment_type": "P"
   },
   {
     "id": "05010503",
@@ -6549,7 +9813,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IBERLINARES, S.L.",
+    "consignatario": "MARCIL MADRIDSA MARTI",
+    "portes": 149.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 14.9,
+    "iva": 34.42,
+    "total": 198.32,
+    "payment_type": "P"
   },
   {
     "id": "05010505",
@@ -6573,7 +9849,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IBERLINARES, S.L.",
+    "consignatario": "SATURNINO CORTES,S.A.",
+    "portes": 120.38,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 12.04,
+    "iva": 27.81,
+    "total": 160.23,
+    "payment_type": "P"
   },
   {
     "id": "05010506",
@@ -6597,7 +9885,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CEFERINO PARRA S.A",
+    "consignatario": "HERMANOS DONOSO S.L.",
+    "portes": 156.18,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 15.62,
+    "iva": 36.08,
+    "total": 207.88,
+    "payment_type": "P"
   },
   {
     "id": "05010508",
@@ -6621,7 +9921,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IBERLINARES, S.L.",
+    "consignatario": "MARCIL BARCELONA GRUPO MARTI",
+    "portes": 446.39,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 44.64,
+    "iva": 103.12,
+    "total": 594.15,
+    "payment_type": "P"
   },
   {
     "id": "05010509",
@@ -6645,7 +9957,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IBERLINARES, S.L.",
+    "consignatario": "ANSAMA REGALOS DE EMPRESA",
+    "portes": 208.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 20.8,
+    "iva": 48.05,
+    "total": 276.85,
+    "payment_type": "P"
   },
   {
     "id": "05010510",
@@ -6669,7 +9993,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "CARNICAS J. MENCAS E HIJOS, S.L.",
+    "consignatario": "CARPINTERIA DE ALUMINIO PALOMO SL",
+    "portes": 13.01,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 1.3,
+    "iva": 3.01,
+    "total": 17.32,
+    "payment_type": "P"
   },
   {
     "id": "05010512",
@@ -6693,7 +10029,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IBERLINARES, S.L.",
+    "consignatario": "ALONSO HIPERCASH,S.A.",
+    "portes": 57.85,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 5.79,
+    "iva": 13.36,
+    "total": 77.0,
+    "payment_type": "P"
   },
   {
     "id": "05010513",
@@ -6717,7 +10065,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IBERLINARES, S.L.",
+    "consignatario": "JUAN GARCIA GALERA,S.L.",
+    "portes": 291.27,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 29.13,
+    "iva": 67.28,
+    "total": 387.68,
+    "payment_type": "P"
   },
   {
     "id": "05010514",
@@ -6741,7 +10101,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IBERLINARES, S.L.",
+    "consignatario": "CASH HORTELANO,S.L.",
+    "portes": 36.12,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 3.61,
+    "iva": 8.34,
+    "total": 48.07,
+    "payment_type": "P"
   },
   {
     "id": "05010516",
@@ -6765,7 +10137,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IBERLINARES, S.L.",
+    "consignatario": "SIERRA DE PADELMA,S.L.",
+    "portes": 94.2,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 9.42,
+    "iva": 21.76,
+    "total": 125.38,
+    "payment_type": "P"
   },
   {
     "id": "05010536",
@@ -6789,7 +10173,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "FADICAMO, S.A.",
+    "consignatario": "CODAN, S.A.",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 0.0,
+    "total": 0.0,
+    "payment_type": "P"
   },
   {
     "id": "05010537",
@@ -6813,7 +10209,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "FADICAMO, S.A.",
+    "consignatario": "COMERCIAL ABIARJO, S.A.",
+    "portes": 56.3,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 11.82,
+    "total": 68.12,
+    "payment_type": "P"
   },
   {
     "id": "05010538",
@@ -6837,7 +10245,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "FADICAMO, S.A.",
+    "consignatario": "REVERTE HERMANOS, S.L.",
+    "portes": 56.3,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 11.82,
+    "total": 68.12,
+    "payment_type": "P"
   },
   {
     "id": "05010539",
@@ -6861,7 +10281,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "FADICAMO, S.A.",
+    "consignatario": "PRISCA ALIMENTAÇAO, SA",
+    "portes": 336.0,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 0.0,
+    "iva": 70.56,
+    "total": 406.56,
+    "payment_type": "P"
   },
   {
     "id": "05010540",
@@ -6885,7 +10317,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IBERICOS DEHESA GRANDE, SOC COOP",
+    "consignatario": "EXPLOTACIONES PEVIA",
+    "portes": 80.25,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 8.03,
+    "iva": 18.54,
+    "total": 106.82,
+    "payment_type": "P"
   },
   {
     "id": "05010541",
@@ -6909,7 +10353,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "2025-11-11",
+    "remitente": "IBERICOS DEHESA GRANDE, SOC COOP",
+    "consignatario": "GANADERIA EL CERRO",
+    "portes": 161.5,
+    "reexp": 0.0,
+    "reemb": 0.0,
+    "g_reem": 0.0,
+    "desemb": 0.0,
+    "seguro": 16.15,
+    "iva": 37.31,
+    "total": 214.96,
+    "payment_type": "P"
   },
   {
     "id": "nan",
@@ -6957,7 +10413,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "1970-01-01",
+    "remitente": "109960",
+    "consignatario": "12063.34",
+    "portes": 0.0,
+    "reexp": 0.0,
+    "reemb": null,
+    "g_reem": 531.03,
+    "desemb": 2646.11,
+    "seguro": null,
+    "iva": 15246.72,
+    "total": 281.0,
+    "payment_type": ""
   },
   {
     "id": "DEBIDOS",
@@ -6981,7 +10449,19 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "1970-01-01",
+    "remitente": "4559",
+    "consignatario": "554.32",
+    "portes": 0.0,
+    "reexp": 15.98,
+    "reemb": null,
+    "g_reem": 9.24,
+    "desemb": 123.92,
+    "seguro": null,
+    "iva": 713.97,
+    "total": 7.0,
+    "payment_type": ""
   },
   {
     "id": "TOTALES",
@@ -7005,6 +10485,18 @@
     ],
     "contact": {
       "name": "Europillow Ops"
-    }
+    },
+    "fecha": "1970-01-01",
+    "remitente": "114519",
+    "consignatario": "12617.66",
+    "portes": 0.0,
+    "reexp": 15.98,
+    "reemb": null,
+    "g_reem": 540.27,
+    "desemb": 2770.03,
+    "seguro": null,
+    "iva": 15960.69,
+    "total": 288.0,
+    "payment_type": ""
   }
 ]
